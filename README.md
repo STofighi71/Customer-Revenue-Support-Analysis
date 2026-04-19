@@ -130,6 +130,7 @@ customer-revenue-support-analysis
 ├── scripts
 │   ├── data_generation.py
 │   └── cleaning_pipeline.py
+│   └── load_to_sqlite.py
 │
 ├── sql
 │   └── queries.sql
@@ -194,6 +195,19 @@ Load the cleaned data into SQLite and execute:
 ```
 sql/queries.sql
 ```
+
+Eight SQL queries were written to answer key SaaS business questions including:
+
+• Revenue distribution by customer segment
+• Top customers by MRR
+• Month-over-month revenue change
+• Customer churn rate
+• Average customer satisfaction score for each support channel
+• Support ticket activity
+• Cohort retention analysis
+• Customers with more than three support tickets in a single month within 60 days
+
+
 
 ### 5. Open the Power BI dashboard
 
