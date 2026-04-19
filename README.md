@@ -1,5 +1,5 @@
 
-### Customer Revenue & Support Analysis
+# Customer Revenue & Support Analysis
 
 End-to-end data analytics project simulating SaaS business metrics including revenue, customer support activity, and retention analysis.
 
