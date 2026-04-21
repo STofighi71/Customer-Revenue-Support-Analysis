@@ -1,201 +1,201 @@
 customer_id,company_name,segment,region,industry,acquisition_date,contract_type,csm_name,mrr
-1,Johnson LLC,Enterprise,EMEA,Finance,2025-08-27,annual,Brian Smith,15628.0
-2,Taylor Inc,Smb,EMEA,Healthcare,2024-10-25,annual,Alice Johnson,
-3,"Mcclain, Miller and Henderson",Smb,North America,Logistics,2025-09-25,monthly,Emma Brown,
-4,Robinson PLC,Enterprise,LATAM,Logistics,2024-05-11,annual,Emma Brown,19231.0
-5,Hoffman Ltd,Smb,North America,Manufacturing,2025-07-29,annual,Carla Gomez,
-6,"Gardner, Robinson and Lawrence",Smb,APAC,Healthcare,2025-09-04,monthly,David Lee,
-7,Blake and Sons,Mid-Market,APAC,EdTech,2026-01-06,monthly,David Lee,36142.0
-8,Peterson-Moore,Enterprise,LATAM,Healthcare,2025-10-12,annual,Emma Brown,24700.0
-9,Garcia-James,Enterprise,North America,Healthcare,2025-12-02,monthly,Brian Smith,19965.0
-10,Munoz-Roman,Smb,North America,Healthcare,2025-01-21,annual,Carla Gomez,
-11,Herrera-Dudley,Enterprise,APAC,Retail,2025-11-05,annual,Carla Gomez,14730.0
-12,Arnold Ltd,Enterprise,APAC,Healthcare,2025-02-06,monthly,Emma Brown,48784.0
-13,Ray-Bush,Smb,North America,Media,2025-08-11,annual,Carla Gomez,
-14,"Perez, Roberts and Miller",Enterprise,North America,SaaS,2024-05-23,monthly,Brian Smith,3103.0
-15,James Group,Mid-Market,LATAM,EdTech,2024-10-15,monthly,Brian Smith,38170.0
-16,Martin-Kelly,Enterprise,APAC,Logistics,2025-08-24,annual,David Lee,43129.0
-17,Miles-Sutton,Mid-Market,North America,EdTech,2025-09-20,monthly,Brian Smith,49823.0
-18,"Reid, Ferguson and Sanchez",Enterprise,APAC,Manufacturing,2024-06-12,annual,Carla Gomez,15373.0
-19,Nelson-Schaefer,Smb,LATAM,Healthcare,2025-04-12,monthly,Alice Johnson,
-20,"Robinson, Nguyen and Tate",Enterprise,North America,Manufacturing,2025-10-04,monthly,David Lee,26009.0
-21,Underwood LLC,Enterprise,LATAM,EdTech,2024-05-31,monthly,Alice Johnson,45676.0
-22,Jones-Gentry,Enterprise,APAC,SaaS,2025-02-23,monthly,Carla Gomez,29492.0
-23,"Edwards, Rios and Foster",Smb,LATAM,Finance,2025-07-02,annual,Emma Brown,
-24,"Ellis, Baker and Wright",Enterprise,EMEA,EdTech,2026-03-29,monthly,Brian Smith,25504.0
-25,"Baker, Richards and Hurst",Smb,EMEA,SaaS,2025-06-28,annual,Alice Johnson,
-26,Robinson-Bright,Mid-Market,APAC,Logistics,2025-02-22,monthly,Brian Smith,38182.0
-27,Davis-Williams,Smb,EMEA,Media,2025-05-18,monthly,Emma Brown,
-28,Burton Ltd,Smb,LATAM,Retail,2024-07-12,annual,Emma Brown,
-29,"Brown, James and Ferrell",Mid-Market,North America,Logistics,2025-03-11,annual,David Lee,45019.0
-30,Maddox-Valencia,Enterprise,APAC,Media,2025-06-02,annual,Alice Johnson,17246.0
-31,"Le, Maldonado and Herrera",Smb,EMEA,SaaS,2024-04-26,monthly,Emma Brown,
-32,"Peterson, Carter and Moore",Smb,North America,Finance,2024-11-11,monthly,Alice Johnson,
-33,"Liu, Baker and Mason",Smb,EMEA,SaaS,2024-04-20,monthly,Emma Brown,
-34,"Gaines, Harrell and Evans",Mid-Market,LATAM,Logistics,2024-09-03,monthly,Emma Brown,38762.0
-35,"Lynch, Hernandez and Farmer",Mid-Market,North America,Media,2025-08-27,annual,Brian Smith,7181.0
-36,"Sellers, George and Burns",Smb,LATAM,SaaS,2025-06-10,annual,David Lee,
-37,Koch-Decker,Enterprise,EMEA,Healthcare,2024-07-13,monthly,David Lee,48724.0
-38,Brown PLC,Mid-Market,EMEA,Logistics,2024-12-12,monthly,Brian Smith,36146.0
-39,Dennis Inc,Mid-Market,North America,Manufacturing,2024-06-18,monthly,Carla Gomez,31318.0
-40,"Cannon, Anderson and Alvarez",Smb,EMEA,Media,2025-11-29,monthly,Alice Johnson,
-41,Baker PLC,Enterprise,EMEA,Healthcare,2025-06-19,monthly,Brian Smith,27634.0
-42,Hickman Ltd,Mid-Market,LATAM,Logistics,2025-03-12,annual,Alice Johnson,11789.0
-43,Marquez Group,Mid-Market,EMEA,Manufacturing,2025-10-05,annual,David Lee,19694.0
-44,"Brooks, Lam and Hayes",Mid-Market,LATAM,Retail,2025-09-21,monthly,Carla Gomez,15267.0
-45,Brown Inc,Smb,EMEA,SaaS,2024-10-27,monthly,Alice Johnson,
-46,"Hall, Robinson and Jones",Mid-Market,North America,Finance,2025-07-18,monthly,Brian Smith,5490.0
-47,Perez Inc,Enterprise,EMEA,Logistics,2025-08-21,annual,Alice Johnson,38334.0
-48,Jones-Young,Smb,EMEA,Healthcare,2026-02-14,annual,Emma Brown,
-49,Lewis-Anderson,Enterprise,APAC,EdTech,2025-09-19,monthly,Carla Gomez,16642.0
-50,"Johnston, Sanchez and Kennedy",Mid-Market,LATAM,Retail,2026-04-14,annual,David Lee,21720.0
-51,Davis Ltd,Smb,EMEA,Media,2025-02-28,monthly,Alice Johnson,
-52,Henderson-Owens,Smb,APAC,Retail,2025-03-18,annual,Alice Johnson,
-53,Nunez Ltd,Mid-Market,APAC,Retail,2025-11-05,annual,Emma Brown,47107.0
-54,Powell LLC,Mid-Market,EMEA,EdTech,2024-07-03,monthly,Brian Smith,18332.0
-55,Wright and Sons,Smb,EMEA,Retail,2025-12-30,annual,Carla Gomez,
-56,Taylor-White,Smb,APAC,Logistics,2025-06-08,annual,Emma Brown,
-57,Baxter Inc,Mid-Market,EMEA,Healthcare,2025-04-12,annual,Carla Gomez,3889.0
-58,"Garcia, Pearson and Fernandez",Smb,APAC,Retail,2025-03-28,annual,Brian Smith,
-59,House and Sons,Mid-Market,LATAM,Finance,2024-04-29,monthly,Alice Johnson,46286.0
-60,Tucker-Lewis,Smb,EMEA,SaaS,2024-08-25,monthly,David Lee,
-61,Martin Inc,Smb,APAC,SaaS,2025-02-23,monthly,Carla Gomez,
-62,House-Glover,Enterprise,North America,Healthcare,2025-02-15,annual,Emma Brown,27632.0
-63,Horton-Cross,Enterprise,North America,Logistics,2024-11-25,monthly,Brian Smith,28020.0
-64,"Stanley, Tucker and Lee",Smb,North America,SaaS,2025-12-17,annual,Brian Smith,
-65,Riley PLC,Smb,EMEA,Manufacturing,2024-10-04,monthly,David Lee,
-66,"Edwards, Williams and Woods",Smb,LATAM,SaaS,2024-06-04,annual,Brian Smith,
-67,"Moore, Yu and Miller",Smb,North America,Manufacturing,2026-04-02,annual,Carla Gomez,
-68,Larson Ltd,Mid-Market,APAC,Manufacturing,2024-09-09,annual,Alice Johnson,8559.0
-69,Powell PLC,Mid-Market,North America,EdTech,2026-02-16,monthly,Alice Johnson,40096.0
-70,"Wheeler, Harvey and Barnes",Mid-Market,APAC,SaaS,2024-10-26,annual,Emma Brown,34516.0
-71,"Mills, Donovan and Harris",Smb,LATAM,Logistics,2025-07-15,annual,Alice Johnson,
-72,Allen-Foster,Mid-Market,EMEA,Logistics,2025-10-26,annual,David Lee,5585.0
-73,"Evans, Stewart and Walton",Enterprise,APAC,SaaS,2025-09-21,monthly,Carla Gomez,34234.0
-74,Ellis PLC,Mid-Market,LATAM,SaaS,2024-06-13,annual,Carla Gomez,37333.0
-75,Medina PLC,Smb,North America,Manufacturing,2024-07-04,annual,Brian Smith,
-76,Mahoney Inc,Enterprise,APAC,Manufacturing,2024-11-09,monthly,Carla Gomez,19803.0
-77,Wood and Sons,Smb,LATAM,SaaS,2026-03-01,annual,David Lee,
-78,"Warner, Carr and Archer",Enterprise,North America,Media,2025-03-24,monthly,Alice Johnson,19598.0
-79,"Smith, Montoya and Evans",Enterprise,APAC,Healthcare,2025-09-07,monthly,Carla Gomez,15722.0
-80,Mcmillan and Sons,Smb,North America,Finance,2025-09-15,monthly,Brian Smith,
-81,Preston Ltd,Enterprise,EMEA,Media,2024-11-09,annual,Emma Brown,13742.0
-82,Nelson PLC,Enterprise,LATAM,Media,2025-06-21,annual,Brian Smith,10671.0
-83,"Cooper, Watts and Farrell",Enterprise,EMEA,Healthcare,2024-09-28,annual,Brian Smith,12526.0
-84,King-Odonnell,Enterprise,LATAM,Finance,2025-05-15,monthly,Alice Johnson,30914.0
-85,Walters LLC,Smb,LATAM,SaaS,2024-05-27,annual,Emma Brown,
-86,Cook and Sons,Enterprise,LATAM,Media,2024-05-22,monthly,David Lee,30495.0
-87,Martin-Ramos,Mid-Market,North America,EdTech,2025-08-25,annual,Brian Smith,18996.0
-88,Hoffman-Rodriguez,Mid-Market,EMEA,EdTech,2025-10-18,monthly,Carla Gomez,23010.0
-89,"Mckee, Gardner and Davenport",Mid-Market,EMEA,Retail,2026-03-04,monthly,Brian Smith,26102.0
-90,"Hernandez, Anderson and Parker",Enterprise,North America,Logistics,2025-07-14,monthly,David Lee,27712.0
-91,Nolan and Sons,Mid-Market,LATAM,Manufacturing,2026-03-17,monthly,Brian Smith,28534.0
-92,Estrada LLC,Mid-Market,EMEA,Manufacturing,2025-09-29,annual,Alice Johnson,24052.0
-93,"Henson, Russell and Oliver",Mid-Market,LATAM,Manufacturing,2025-12-14,monthly,David Lee,15380.0
-94,Hancock and Sons,Mid-Market,LATAM,Media,2024-08-16,monthly,David Lee,23028.0
-95,Johnson-Doyle,Enterprise,LATAM,Retail,2026-03-03,annual,Brian Smith,41780.0
-96,Pham-Shields,Enterprise,EMEA,Manufacturing,2025-01-01,monthly,Alice Johnson,43123.0
-97,Adams Ltd,Mid-Market,North America,Media,2026-01-07,monthly,Alice Johnson,18049.0
-98,Brennan-Garrison,Mid-Market,APAC,Logistics,2024-07-10,annual,Carla Gomez,23118.0
-99,Velasquez Group,Mid-Market,APAC,Manufacturing,2024-10-07,annual,Alice Johnson,31822.0
-100,Hoover-Savage,Smb,EMEA,SaaS,2025-01-14,monthly,Alice Johnson,
-101,Keller Group,Smb,EMEA,Logistics,2024-10-08,monthly,Alice Johnson,
-102,Lin-Rasmussen,Smb,North America,Retail,2024-12-28,annual,Alice Johnson,
-103,May-Ross,Smb,LATAM,EdTech,2024-11-20,annual,Brian Smith,
-104,"Rivera, Johnson and Wiley",Enterprise,EMEA,Retail,2026-02-02,annual,Alice Johnson,38924.0
-105,Carpenter LLC,Smb,APAC,Manufacturing,2024-11-06,annual,Brian Smith,
-106,Carlson LLC,Enterprise,North America,Healthcare,2024-05-17,annual,Emma Brown,8933.0
-107,Graham-Joyce,Enterprise,EMEA,SaaS,2025-11-04,annual,Carla Gomez,5519.0
-108,Lam-Lee,Enterprise,APAC,Finance,2024-07-16,annual,David Lee,7916.0
-109,"Graham, Meyer and Drake",Mid-Market,APAC,Media,2024-05-22,monthly,David Lee,12543.0
-110,"Bentley, Mclaughlin and Gonzalez",Enterprise,APAC,Media,2025-10-03,annual,David Lee,48908.0
-111,Rush LLC,Enterprise,APAC,SaaS,2025-03-18,monthly,Alice Johnson,19279.0
-112,Alvarado-Martinez,Mid-Market,North America,Media,2025-08-15,annual,Carla Gomez,2880.0
-113,Hunter-Estrada,Mid-Market,APAC,Retail,2026-03-18,annual,Brian Smith,24253.0
-114,Terry-Spencer,Mid-Market,APAC,EdTech,2024-12-27,annual,Emma Brown,1665.0
-115,Ortega-Gray,Enterprise,North America,Healthcare,2024-09-14,monthly,David Lee,33019.0
-116,Gilbert LLC,Enterprise,North America,Media,2025-11-20,annual,David Lee,2130.0
-117,"Bass, Torres and Clark",Smb,APAC,Logistics,2025-02-27,annual,Brian Smith,
-118,"Lawson, Morris and Ramos",Enterprise,APAC,Media,2025-12-19,annual,David Lee,49885.0
-119,Dixon Ltd,Enterprise,APAC,SaaS,2025-09-24,annual,Carla Gomez,21094.0
-120,"Miller, Robertson and Schultz",Mid-Market,North America,Healthcare,2024-08-27,monthly,Carla Gomez,8835.0
-121,Cardenas and Sons,Enterprise,North America,Logistics,2025-01-03,monthly,David Lee,19120.0
-122,Walker-Gonzalez,Enterprise,APAC,Healthcare,2025-09-22,monthly,Carla Gomez,15908.0
-123,Sanchez Group,Mid-Market,North America,EdTech,2024-05-06,monthly,Emma Brown,9295.0
-124,Gibson Ltd,Mid-Market,EMEA,Finance,2025-08-05,annual,Brian Smith,42803.0
-125,Higgins Group,Mid-Market,EMEA,Finance,2025-07-09,annual,David Lee,32373.0
-126,Sanchez-Douglas,Mid-Market,APAC,Retail,2025-05-06,monthly,Carla Gomez,32308.0
-127,Osborne and Sons,Smb,EMEA,Manufacturing,2024-04-22,annual,Alice Johnson,
-128,"Holmes, Williams and Wright",Enterprise,EMEA,Retail,2024-09-01,monthly,Emma Brown,20912.0
-129,Bryant Group,Smb,North America,Healthcare,2026-02-05,annual,Emma Brown,
-130,"Travis, Larson and Dodson",Enterprise,North America,Manufacturing,2025-09-18,annual,David Lee,20487.0
-131,Salazar-Ball,Enterprise,LATAM,EdTech,2026-03-11,monthly,Emma Brown,49502.0
-132,Rivas-Kelley,Smb,North America,Logistics,2025-05-15,annual,Alice Johnson,
-133,Manning Group,Smb,North America,Healthcare,2026-03-15,monthly,Alice Johnson,
-134,Walton-Larsen,Mid-Market,LATAM,EdTech,2025-04-02,monthly,Brian Smith,19881.0
-135,"Washington, Allen and Gonzales",Enterprise,APAC,Media,2024-11-19,monthly,Brian Smith,18337.0
-136,Young-Rogers,Enterprise,North America,Manufacturing,2025-10-24,monthly,Emma Brown,15733.0
-137,"Miller, Hernandez and Reyes",Enterprise,North America,EdTech,2026-03-12,monthly,Alice Johnson,4908.0
-138,"Lewis, Perry and Rivera",Smb,APAC,EdTech,2024-08-14,annual,Alice Johnson,
-139,Brown-Wall,Enterprise,APAC,Manufacturing,2025-04-14,annual,Emma Brown,36388.0
-140,"Shah, Smith and Gilmore",Mid-Market,LATAM,Healthcare,2025-02-14,monthly,David Lee,49138.0
-141,Woods-Bender,Mid-Market,APAC,Finance,2025-07-09,monthly,Brian Smith,45190.0
-142,Castaneda-Ashley,Enterprise,EMEA,EdTech,2024-12-05,monthly,Brian Smith,31834.0
-143,"Adkins, Payne and Morrison",Enterprise,LATAM,EdTech,2025-03-09,monthly,Emma Brown,29566.0
-144,Robinson-Graham,Enterprise,LATAM,Healthcare,2024-10-06,annual,Carla Gomez,27761.0
-145,Rogers-Shelton,Mid-Market,APAC,Healthcare,2024-05-10,monthly,Carla Gomez,27977.0
-146,"Martin, Mcdonald and Anderson",Enterprise,LATAM,EdTech,2025-02-26,annual,Emma Brown,3404.0
-147,"Johnson, Long and Elliott",Mid-Market,EMEA,SaaS,2025-08-14,annual,Carla Gomez,8597.0
-148,Day and Sons,Mid-Market,EMEA,Media,2024-05-09,annual,Alice Johnson,13293.0
-149,White-Green,Enterprise,APAC,Media,2026-02-20,annual,Alice Johnson,14340.0
-150,Gibson LLC,Mid-Market,North America,EdTech,2024-12-28,annual,David Lee,8957.0
-151,Ramirez-Bean,Smb,North America,Retail,2025-11-30,annual,Emma Brown,
-152,Conley-Ruiz,Enterprise,LATAM,Healthcare,2025-03-11,monthly,Alice Johnson,31241.0
-153,"Williams, Crane and Walker",Smb,North America,Media,2025-11-20,annual,Emma Brown,
-154,"Williams, Johnson and Wright",Mid-Market,LATAM,Media,2024-06-10,annual,Brian Smith,30935.0
-155,Howell and Sons,Enterprise,North America,Manufacturing,2026-01-29,monthly,Emma Brown,34308.0
-156,Caldwell-Elliott,Enterprise,North America,Healthcare,2024-07-25,annual,David Lee,23274.0
-157,Lyons-Wang,Enterprise,APAC,Finance,2024-10-04,annual,Carla Gomez,39465.0
-158,"Lawson, Adkins and Wilson",Enterprise,LATAM,Retail,2024-08-26,annual,Emma Brown,32741.0
-159,Oconnell Inc,Mid-Market,APAC,Manufacturing,2026-01-14,annual,Carla Gomez,13363.0
-160,Hickman PLC,Enterprise,North America,Manufacturing,2025-07-11,monthly,David Lee,3860.0
-161,Sanders-Espinoza,Mid-Market,LATAM,Manufacturing,2025-09-26,annual,Brian Smith,33461.0
-162,"Vaughn, Burton and Garcia",Smb,North America,SaaS,2024-06-16,monthly,David Lee,
-163,Jefferson-Burke,Enterprise,LATAM,Finance,2025-12-09,monthly,David Lee,43911.0
-164,"Patton, Reed and Patterson",Smb,EMEA,Media,2024-07-21,annual,Carla Gomez,
-165,Hunter LLC,Enterprise,LATAM,Healthcare,2025-01-30,annual,Emma Brown,25904.0
-166,Short-Garcia,Mid-Market,LATAM,Finance,2024-04-27,monthly,Brian Smith,42363.0
-167,"Snow, Stevens and Hernandez",Enterprise,APAC,Logistics,2025-01-24,monthly,David Lee,7451.0
-168,"Boyd, Santos and Gilbert",Enterprise,EMEA,Media,2024-09-01,monthly,Carla Gomez,2897.0
-169,"Hampton, Marshall and Petersen",Smb,APAC,Finance,2026-04-02,annual,Carla Gomez,
-170,Morris-Sanchez,Mid-Market,North America,Logistics,2025-07-22,annual,Emma Brown,45682.0
-171,Ramirez Group,Smb,North America,Retail,2026-04-13,monthly,Emma Brown,
-172,Hudson-Barnett,Enterprise,North America,Media,2024-10-24,monthly,Brian Smith,31221.0
-173,Snyder LLC,Enterprise,APAC,Media,2025-01-04,annual,Alice Johnson,31490.0
-174,Lewis-Salinas,Mid-Market,North America,Healthcare,2024-09-06,annual,Carla Gomez,39507.0
-175,Beard-Haynes,Mid-Market,LATAM,EdTech,2025-01-07,annual,Carla Gomez,14055.0
-176,"Smith, Vaughan and Miller",Mid-Market,LATAM,Healthcare,2024-11-18,monthly,David Lee,38481.0
-177,Freeman-Chang,Mid-Market,APAC,EdTech,2025-10-29,monthly,David Lee,18988.0
-178,Brewer-Henry,Smb,EMEA,Media,2025-10-06,annual,Brian Smith,
-179,Davis and Sons,Mid-Market,North America,Logistics,2025-12-24,annual,Brian Smith,42172.0
-180,"Sanchez, Beck and Wood",Smb,EMEA,EdTech,2025-02-26,annual,Alice Johnson,
-181,"Cooper, Barajas and Pierce",Mid-Market,North America,Healthcare,2025-06-21,annual,Carla Gomez,49986.0
-182,"Chavez, Parker and Hall",Mid-Market,North America,Logistics,2025-01-16,monthly,Emma Brown,24976.0
-183,Stewart Ltd,Enterprise,APAC,Retail,2025-10-30,annual,David Lee,20342.0
-184,"Lopez, Robinson and Washington",Enterprise,APAC,Healthcare,2025-06-08,annual,Alice Johnson,10224.0
-185,"Bray, Warren and Campbell",Smb,LATAM,SaaS,2025-11-01,monthly,David Lee,
-186,Phillips LLC,Mid-Market,EMEA,Media,2024-07-05,annual,Carla Gomez,39309.0
-187,Smith-Ferguson,Mid-Market,APAC,Healthcare,2024-09-04,monthly,David Lee,2640.0
-188,Mccann PLC,Enterprise,APAC,Logistics,2024-11-17,monthly,David Lee,46945.0
-189,"Raymond, Little and Mullins",Mid-Market,LATAM,Healthcare,2024-11-30,monthly,Alice Johnson,3438.0
-190,Andrews Group,Mid-Market,LATAM,Healthcare,2024-07-06,monthly,Brian Smith,36228.0
-191,Peterson-Sheppard,Smb,LATAM,Media,2025-04-24,annual,Emma Brown,
-192,Wilson-Jones,Enterprise,North America,Manufacturing,2024-10-31,monthly,David Lee,41347.0
-193,Ray Ltd,Mid-Market,APAC,Finance,2025-05-04,annual,Brian Smith,30057.0
-194,Hernandez PLC,Mid-Market,North America,SaaS,2024-05-29,monthly,Carla Gomez,36682.0
-195,Mcknight Inc,Enterprise,APAC,Finance,2024-12-09,annual,Carla Gomez,13439.0
-196,Obrien-Gibbs,Smb,LATAM,Healthcare,2025-06-25,monthly,Emma Brown,
-197,"James, Kerr and Evans",Smb,APAC,Logistics,2024-10-10,monthly,Emma Brown,
-198,Torres-Oliver,Smb,North America,Logistics,2025-07-19,monthly,Carla Gomez,
-199,"Garcia, Farmer and Garrett",Enterprise,EMEA,EdTech,2025-08-04,monthly,Brian Smith,36403.0
-200,"Miller, Allen and Arnold",Mid-Market,North America,Healthcare,2024-11-09,monthly,Brian Smith,1973.0
+C0000,Anderson-Hooper,enterprise,APAC,SaaS,2025-01-30,monthly,Charlie,1860.0
+C0001,Gardner Group,smb,North America,Fintech,2025-06-15,monthly,Alice,10191.0
+C0002,"Larson, Mitchell and Powell",smb,APAC,SaaS,2025-03-01,annual,Alice,607.0
+C0003,Lee PLC,mid-market,North America,SaaS,2024-11-30,monthly,Bob,2238.0
+C0004,"Mendez, Harper and Myers",enterprise,APAC,SaaS,2024-08-11,monthly,Diana,19423.0
+C0005,"Sanchez, Young and Buckley",mid-market,North America,Healthcare,2025-11-04,annual,Alice,3919.0
+C0006,Owens-Adams,smb,North America,Healthcare,2025-09-12,annual,Charlie,761.0
+C0007,Martinez-Jones,enterprise,North America,Fintech,2025-08-14,annual,Alice,15583.0
+C0008,Schneider PLC,smb,North America,Healthcare,2024-07-21,monthly,Charlie,905.0
+C0009,Mcgee-Olsen,enterprise,Europe,Ecommerce,2024-12-02,monthly,Diana,10051.0
+C0010,Gonzalez Ltd,enterprise,APAC,SaaS,2026-01-19,annual,Alice,9555.0
+C0011,Walls-Lam,smb,APAC,Ecommerce,2025-11-02,annual,Bob,352.0
+C0012,Henry and Sons,mid-market,APAC,SaaS,2025-07-08,monthly,Bob,4632.0
+C0013,"Krause, Cook and Shaw",mid-market,Europe,SaaS,2024-12-12,monthly,Alice,3558.0
+C0014,Galloway LLC,enterprise,Europe,Ecommerce,2025-07-13,annual,Charlie,11521.5
+C0015,"Wood, Gregory and Parker",mid-market,North America,Ecommerce,2026-03-01,annual,Bob,1189.0
+C0016,Johnson Ltd,enterprise,APAC,Ecommerce,2024-04-27,monthly,Bob,8005.0
+C0017,"Green, Gonzalez and Hutchinson",enterprise,APAC,Fintech,2025-11-20,monthly,Diana,12734.0
+C0018,Savage-Kirk,smb,Europe,Ecommerce,2025-04-12,monthly,Charlie,604.0
+C0019,Thornton-Smith,enterprise,North America,Fintech,2026-02-21,monthly,Charlie,8890.0
+C0020,Woods-Marshall,smb,Europe,Ecommerce,2025-01-10,monthly,Bob,940.0
+C0021,Higgins PLC,enterprise,APAC,Ecommerce,2024-06-07,monthly,Diana,15627.0
+C0022,Cooper-Reynolds,smb,Europe,Healthcare,2026-02-18,monthly,Charlie,113.0
+C0023,Parker-Miller,smb,North America,Fintech,2024-09-08,annual,Diana,876.0
+C0024,"Clark, Cooper and Thompson",enterprise,APAC,Healthcare,2024-05-24,annual,Bob,12041.0
+C0025,"Garcia, Hampton and Lee",smb,North America,Healthcare,2025-07-03,monthly,Alice,466.0
+C0026,Howard LLC,smb,North America,Fintech,2026-02-13,monthly,Diana,527.0
+C0027,Allen Group,mid-market,APAC,SaaS,2024-08-18,annual,Diana,1034.0
+C0028,"Hanson, Wilkinson and Raymond",smb,APAC,Healthcare,2024-07-18,annual,Alice,661.0
+C0029,"Brooks, Smith and Christensen",smb,APAC,SaaS,2026-02-08,annual,Charlie,101.0
+C0030,Welch-Cross,mid-market,North America,Ecommerce,2024-09-09,annual,Bob,3613.0
+C0031,Reyes Group,mid-market,Europe,SaaS,2026-02-13,annual,Bob,2832.0
+C0032,"Bailey, Mcgrath and Arnold",enterprise,APAC,SaaS,2025-09-03,annual,Bob,19737.0
+C0033,Cook LLC,smb,North America,Ecommerce,2024-07-06,monthly,Alice,261.0
+C0034,Miller Inc,mid-market,APAC,Ecommerce,2024-08-31,annual,Alice,1995.0
+C0035,Frank-Turner,mid-market,North America,Ecommerce,2026-01-10,annual,Bob,1815.0
+C0036,Wright-Monroe,mid-market,North America,Fintech,2025-03-08,monthly,Alice,4533.0
+C0037,"Figueroa, Huffman and Tate",enterprise,APAC,Healthcare,2025-11-14,monthly,Bob,6016.0
+C0038,Anderson-Foster,smb,North America,Healthcare,2025-01-01,monthly,Charlie,824.0
+C0039,Mercado-Mack,mid-market,APAC,Healthcare,2026-02-22,monthly,Bob,1337.0
+C0040,Sweeney Group,mid-market,APAC,Ecommerce,2024-10-07,annual,Charlie,1791.0
+C0041,"Jones, Barnett and Alvarez",mid-market,Europe,Healthcare,2026-04-05,monthly,Bob,1763.0
+C0042,"Greene, Cole and Lee",smb,North America,SaaS,2024-04-23,annual,Alice,592.0
+C0043,Walker-Brown,enterprise,APAC,Fintech,2025-12-21,monthly,Alice,7062.0
+C0044,Walker Ltd,enterprise,North America,SaaS,2025-09-21,monthly,Alice,13006.0
+C0045,Jones PLC,mid-market,North America,Ecommerce,2025-01-23,monthly,Bob,2152.0
+C0046,Goodwin LLC,enterprise,Europe,Healthcare,2025-01-19,monthly,Bob,14687.0
+C0047,Miller-Bird,enterprise,APAC,Healthcare,2024-12-19,monthly,Diana,10618.0
+C0048,"Poole, Rodriguez and Parks",smb,Europe,Fintech,2024-05-15,monthly,Alice,774.0
+C0049,"Rowe, Rodriguez and Vargas",smb,APAC,Healthcare,2025-03-18,annual,Diana,478.0
+C0050,Fisher-Hunt,enterprise,Europe,Healthcare,2025-07-22,monthly,Alice,15470.0
+C0051,"Barber, Velazquez and Munoz",smb,North America,Healthcare,2025-09-09,annual,Alice,127.0
+C0052,"Watson, Valentine and Dean",smb,North America,Fintech,2024-05-01,monthly,Diana,939.0
+C0053,"Olson, Andrews and Villarreal",mid-market,North America,Healthcare,2026-02-10,monthly,Charlie,4104.0
+C0054,"Liu, Williams and Smith",enterprise,Europe,Fintech,2025-03-13,monthly,Diana,7454.0
+C0055,Le Inc,smb,APAC,SaaS,2025-11-29,monthly,Alice,607.0
+C0056,Marshall-Gibson,smb,North America,Fintech,2024-11-19,monthly,Diana,971.0
+C0057,"Gaines, White and Chavez",mid-market,Europe,Healthcare,2025-09-03,monthly,Diana,2570.0
+C0058,"Hernandez, Johnson and Bush",mid-market,North America,Fintech,2026-04-06,annual,Alice,3660.0
+C0059,Parker PLC,smb,Europe,Ecommerce,2025-07-09,annual,Charlie,607.0
+C0060,Cain LLC,smb,Europe,Healthcare,2026-03-08,monthly,Bob,317.0
+C0061,"Bartlett, Duke and Burns",enterprise,Europe,Fintech,2025-04-30,monthly,Alice,17685.0
+C0062,Shelton-Morgan,mid-market,APAC,Ecommerce,2025-03-04,monthly,Alice,2832.0
+C0063,Wise PLC,smb,APAC,Healthcare,2024-10-01,monthly,Alice,957.0
+C0064,Washington-Malone,enterprise,APAC,SaaS,2025-09-30,monthly,Alice,6484.0
+C0065,Donovan-Gonzalez,enterprise,APAC,SaaS,2025-10-17,monthly,Diana,5863.0
+C0066,"Torres, Jenkins and Reed",smb,North America,Fintech,2025-04-14,monthly,Alice,663.0
+C0067,Chapman-Scott,mid-market,Europe,Ecommerce,2024-09-16,annual,Bob,2923.0
+C0068,Johnson Inc,smb,APAC,Ecommerce,2024-11-09,monthly,Charlie,506.0
+C0069,Washington PLC,smb,Europe,Fintech,2025-11-10,annual,Diana,754.0
+C0070,Barber-Henderson,smb,Europe,SaaS,2025-08-26,monthly,Diana,135.0
+C0071,Gibson Group,smb,APAC,SaaS,2026-03-31,monthly,Bob,938.0
+C0072,Nelson and Sons,mid-market,APAC,Ecommerce,2025-04-03,monthly,Charlie,4157.0
+C0073,"Harrington, Robinson and Wu",smb,North America,Fintech,2024-06-11,annual,Charlie,781.0
+C0074,"Johnson, Lindsey and Sanchez",smb,North America,Healthcare,2025-05-10,annual,Alice,745.0
+C0075,Hines-Harrington,mid-market,APAC,Ecommerce,2026-01-15,monthly,Bob,2643.0
+C0076,"Scott, Golden and Estrada",enterprise,Europe,SaaS,2025-10-01,monthly,Bob,15173.0
+C0077,"Frye, Torres and Cabrera",mid-market,Europe,Ecommerce,2024-07-20,monthly,Charlie,2529.0
+C0078,Wells Group,enterprise,North America,Ecommerce,2025-03-13,annual,Charlie,10592.0
+C0079,"Smith, Kim and Silva",mid-market,North America,SaaS,2025-01-31,annual,Charlie,4296.0
+C0080,Joseph-Mcclain,mid-market,North America,SaaS,2026-01-26,annual,Bob,2306.0
+C0081,Rodriguez Group,mid-market,APAC,Ecommerce,2026-01-26,monthly,Diana,3675.0
+C0082,Johnson-Parker,mid-market,APAC,Healthcare,2025-11-07,monthly,Alice,2282.0
+C0083,Weaver-Horne,enterprise,North America,Fintech,2024-07-21,monthly,Charlie,10575.0
+C0084,"Blackwell, Long and Watts",mid-market,APAC,Fintech,2024-10-25,annual,Bob,1317.0
+C0085,Fleming-Alvarez,enterprise,North America,Ecommerce,2024-09-06,annual,Alice,18545.0
+C0086,Richards PLC,mid-market,Europe,Fintech,2024-09-13,monthly,Alice,2998.0
+C0087,"Livingston, Perez and Ramirez",enterprise,Europe,Healthcare,2025-11-26,monthly,Bob,16935.0
+C0088,Griffin PLC,mid-market,North America,Fintech,2025-02-02,annual,Alice,4304.0
+C0089,"Stevens, Blake and Simon",mid-market,North America,Ecommerce,2024-05-24,annual,Bob,2853.0
+C0090,Love-Griffin,smb,Europe,Fintech,2025-02-10,monthly,Diana,663.0
+C0091,Ortega-Hensley,enterprise,North America,Healthcare,2025-07-15,monthly,Bob,11521.5
+C0092,Frederick-Franklin,smb,Europe,Ecommerce,2024-08-27,annual,Bob,712.0
+C0093,Hall PLC,mid-market,North America,SaaS,2024-12-09,monthly,Diana,4152.0
+C0094,Brown LLC,mid-market,Europe,Ecommerce,2026-02-12,monthly,Charlie,1001.0
+C0095,Carey Inc,mid-market,Europe,Healthcare,2025-07-03,annual,Alice,2589.0
+C0096,Medina-Knight,enterprise,North America,Ecommerce,2025-10-04,monthly,Charlie,11521.5
+C0097,Jensen Inc,smb,North America,SaaS,2025-06-06,annual,Charlie,607.0
+C0098,Manning Group,smb,APAC,Ecommerce,2025-10-06,annual,Alice,152.0
+C0099,"Jackson, Larson and Glass",mid-market,Europe,Fintech,2024-12-03,annual,Alice,2695.0
+C0100,"Hunt, Long and Waters",mid-market,APAC,Healthcare,2026-03-18,monthly,Bob,3294.0
+C0101,"Cannon, Smith and Wolf",smb,Europe,Healthcare,2025-06-11,monthly,Charlie,302.0
+C0102,Woodard-Morrow,mid-market,APAC,Ecommerce,2025-02-20,monthly,Charlie,1400.0
+C0103,Ramirez-White,smb,APAC,Ecommerce,2025-04-09,annual,Charlie,607.0
+C0104,"Davis, Scott and Sawyer",mid-market,Europe,Ecommerce,2025-05-14,monthly,Bob,4681.0
+C0105,Stephens LLC,smb,Europe,Healthcare,2026-01-09,monthly,Charlie,610.0
+C0106,Smith-Moreno,enterprise,Europe,SaaS,2026-02-17,annual,Charlie,13800.0
+C0107,Williams-Ryan,enterprise,North America,Healthcare,2025-02-19,annual,Diana,11521.5
+C0108,Martin-Jones,enterprise,Europe,Healthcare,2026-01-09,monthly,Diana,14986.0
+C0109,"Herrera, Woodward and Bridges",mid-market,APAC,Fintech,2026-03-16,monthly,Charlie,4002.0
+C0110,Lozano Group,enterprise,APAC,Ecommerce,2024-10-18,monthly,Bob,14561.0
+C0111,"Juarez, Gordon and Ellison",mid-market,APAC,Ecommerce,2024-12-06,monthly,Bob,1146.0
+C0112,Young-Shepherd,mid-market,North America,SaaS,2024-12-05,monthly,Bob,2734.0
+C0113,Rios-Medina,enterprise,Europe,SaaS,2024-07-21,annual,Diana,7976.0
+C0114,Lee-Mann,mid-market,APAC,Fintech,2024-12-11,annual,Diana,3598.0
+C0115,Steele Inc,smb,Europe,Fintech,2025-04-25,monthly,Alice,740.0
+C0116,Walsh and Sons,smb,North America,Healthcare,2026-01-20,monthly,Bob,572.0
+C0117,Lee-Goodwin,enterprise,APAC,Healthcare,2026-02-17,monthly,Bob,10534.0
+C0118,Sandoval and Sons,smb,North America,Healthcare,2024-05-06,monthly,Diana,710.0
+C0119,"Jimenez, King and Berger",enterprise,APAC,Ecommerce,2026-03-02,annual,Diana,11521.5
+C0120,Jimenez Inc,smb,APAC,Healthcare,2024-08-11,monthly,Diana,671.0
+C0121,"Duffy, Day and Juarez",mid-market,Europe,Ecommerce,2025-01-09,monthly,Charlie,3944.0
+C0122,Patterson-Malone,enterprise,APAC,Healthcare,2025-01-07,monthly,Charlie,11521.5
+C0123,Thomas-Foster,mid-market,Europe,SaaS,2025-03-06,annual,Bob,2183.0
+C0124,Soto Inc,smb,Europe,Ecommerce,2025-09-23,annual,Alice,108.0
+C0125,"Weaver, Rivera and Hall",mid-market,North America,Fintech,2025-11-08,monthly,Diana,2682.0
+C0126,Garcia-Thomas,smb,APAC,Fintech,2024-08-01,monthly,Alice,230.0
+C0127,Tanner Group,smb,Europe,Healthcare,2025-06-18,annual,Diana,153.0
+C0128,"Brown, Baker and Porter",smb,Europe,SaaS,2025-10-22,monthly,Diana,727.0
+C0129,"Anderson, Kennedy and Miller",enterprise,Europe,SaaS,2024-12-01,annual,Diana,10539.0
+C0130,Hunt-Kelly,smb,North America,Ecommerce,2024-08-07,annual,Diana,607.0
+C0131,Baker Ltd,mid-market,Europe,Fintech,2025-01-04,annual,Bob,2832.0
+C0132,Randall LLC,enterprise,Europe,Healthcare,2024-06-29,annual,Alice,5098.0
+C0133,Livingston Group,smb,Europe,Ecommerce,2026-01-30,annual,Bob,995.0
+C0134,"Watkins, Nelson and Hutchinson",mid-market,Europe,Fintech,2024-05-09,monthly,Diana,2832.0
+C0135,"Hines, Murphy and Bush",smb,APAC,SaaS,2024-06-02,monthly,Diana,819.0
+C0136,Gibson Group,smb,North America,Healthcare,2024-10-28,monthly,Alice,260.0
+C0137,Scott-Davis,enterprise,Europe,Healthcare,2025-07-22,annual,Bob,9493.0
+C0138,Green-Anderson,mid-market,Europe,Ecommerce,2024-05-22,annual,Diana,4987.0
+C0139,"Mcgee, Morgan and Fields",mid-market,Europe,Healthcare,2026-01-12,annual,Alice,2415.0
+C0140,"Powers, Cortez and Wilson",smb,Europe,SaaS,2024-12-07,monthly,Charlie,500.0
+C0141,Nielsen Group,mid-market,North America,SaaS,2025-01-08,monthly,Alice,2832.0
+C0142,"Walker, Ferguson and Walsh",enterprise,North America,Fintech,2024-09-05,monthly,Bob,13050.0
+C0143,Jacobson-Bell,smb,North America,Fintech,2026-02-07,annual,Alice,121.0
+C0144,"Mitchell, Benson and Higgins",enterprise,APAC,Fintech,2024-08-24,annual,Charlie,19373.0
+C0145,"Harvey, Abbott and Martinez",smb,Europe,Fintech,2025-05-24,monthly,Bob,607.0
+C0146,"Joseph, Maldonado and George",smb,Europe,SaaS,2026-01-20,monthly,Charlie,382.0
+C0147,"Baker, Mckinney and Garcia",mid-market,APAC,Healthcare,2025-10-08,annual,Bob,2832.0
+C0148,"Tucker, Flores and Anderson",mid-market,North America,Fintech,2024-12-27,monthly,Charlie,3331.0
+C0149,Ramos-Bradley,smb,APAC,SaaS,2026-01-01,monthly,Charlie,580.0
+C0150,"Watkins, Chen and Hardy",enterprise,APAC,Healthcare,2025-07-08,annual,Alice,12996.0
+C0151,"Lee, Adams and Smith",mid-market,APAC,Ecommerce,2025-08-03,monthly,Diana,4587.0
+C0152,"Butler, Bell and White",enterprise,Europe,SaaS,2025-10-24,annual,Charlie,16312.0
+C0153,Jackson Ltd,enterprise,APAC,Healthcare,2025-07-08,monthly,Diana,12339.0
+C0154,Bennett Group,smb,North America,Ecommerce,2024-10-05,annual,Diana,576.0
+C0155,Frank-Harris,mid-market,Europe,Ecommerce,2025-04-04,annual,Bob,3565.0
+C0156,"Johnson, Alexander and Wagner",mid-market,North America,Ecommerce,2024-11-08,annual,Bob,2768.0
+C0157,Serrano Inc,smb,Europe,Healthcare,2026-03-24,annual,Alice,448.0
+C0158,Ball-Ballard,mid-market,Europe,Ecommerce,2025-01-24,monthly,Diana,1180.0
+C0159,"Hardin, Price and Wright",mid-market,North America,Ecommerce,2025-08-02,annual,Charlie,1699.0
+C0160,"Young, Mccormick and Cunningham",smb,Europe,Ecommerce,2024-07-10,monthly,Bob,290.0
+C0161,Tucker-Klein,mid-market,North America,Fintech,2025-05-24,annual,Diana,3975.0
+C0162,Gray Group,smb,APAC,Fintech,2024-05-19,annual,Diana,355.0
+C0163,Williams LLC,mid-market,Europe,SaaS,2026-02-27,monthly,Charlie,3065.0
+C0164,Johnson-Mitchell,mid-market,North America,Healthcare,2025-06-27,monthly,Charlie,2758.0
+C0165,Le Ltd,smb,APAC,Ecommerce,2025-06-29,annual,Charlie,422.0
+C0166,Bailey-Summers,mid-market,Europe,Ecommerce,2025-02-14,annual,Diana,4863.0
+C0167,"Thomas, Harris and Mcguire",enterprise,Europe,Ecommerce,2026-03-09,annual,Bob,9014.0
+C0168,Gross-Mcintyre,smb,North America,Fintech,2025-11-10,annual,Alice,738.0
+C0169,Wilson Inc,mid-market,APAC,Fintech,2025-12-09,monthly,Bob,2409.0
+C0170,"Castaneda, West and Evans",mid-market,APAC,Healthcare,2024-12-07,annual,Charlie,4175.0
+C0171,Davis-Porter,smb,North America,Fintech,2025-08-24,annual,Bob,910.0
+C0172,Ramsey and Sons,smb,Europe,Fintech,2024-12-13,annual,Alice,138.0
+C0173,Phelps-Aguilar,mid-market,APAC,Fintech,2025-01-23,annual,Alice,3806.0
+C0174,"Joseph, Brown and Porter",mid-market,North America,Ecommerce,2026-01-30,monthly,Diana,2841.0
+C0175,Hernandez-Fitzgerald,smb,North America,SaaS,2024-10-03,annual,Diana,624.0
+C0176,"Smith, White and Griffin",enterprise,Europe,Healthcare,2024-09-26,annual,Bob,7950.0
+C0177,Smith Ltd,mid-market,North America,Ecommerce,2024-08-25,annual,Alice,1684.0
+C0178,Garrett-Kaiser,enterprise,North America,Healthcare,2025-11-21,annual,Alice,17039.0
+C0179,"Simon, Mullen and Ramirez",smb,APAC,SaaS,2024-11-01,monthly,Bob,499.0
+C0180,Johnson-Lewis,enterprise,APAC,Ecommerce,2024-10-19,monthly,Bob,11002.0
+C0181,"Mitchell, Anderson and Stone",mid-market,North America,Healthcare,2026-03-28,monthly,Diana,2115.0
+C0182,Becker LLC,mid-market,Europe,Healthcare,2024-04-29,annual,Diana,2823.0
+C0183,"Fleming, Whitehead and Whitaker",mid-market,Europe,SaaS,2024-08-14,monthly,Bob,1853.0
+C0184,"Gonzalez, Jones and Fisher",mid-market,APAC,Fintech,2024-04-21,annual,Alice,4769.0
+C0185,Huffman Inc,mid-market,North America,Fintech,2025-12-07,monthly,Alice,2148.0
+C0186,Nguyen Group,smb,North America,SaaS,2025-07-24,annual,Diana,669.0
+C0187,"Baxter, Gonzalez and Leon",enterprise,APAC,Healthcare,2025-02-04,annual,Alice,14907.0
+C0188,"Sanders, Patton and Clements",enterprise,North America,Ecommerce,2026-04-14,annual,Diana,8854.0
+C0189,Hines-Lee,mid-market,North America,Fintech,2025-10-01,annual,Bob,3491.0
+C0190,"Rogers, Walker and Brown",mid-market,Europe,SaaS,2024-10-12,monthly,Bob,3311.0
+C0191,"Wood, Carney and Martin",smb,Europe,Fintech,2025-10-28,monthly,Alice,719.0
+C0192,"Vazquez, Faulkner and Dean",smb,North America,Ecommerce,2024-10-12,annual,Diana,295.0
+C0193,"Hudson, Hunter and Greene",smb,North America,Healthcare,2026-04-03,annual,Diana,983.0
+C0194,Orozco Ltd,mid-market,Europe,Healthcare,2024-07-08,annual,Alice,3914.0
+C0195,Johnson-Martinez,smb,APAC,SaaS,2025-10-26,annual,Charlie,919.0
+C0196,Stewart Ltd,enterprise,APAC,Ecommerce,2024-07-13,monthly,Alice,9465.0
+C0197,White and Sons,mid-market,North America,SaaS,2025-02-04,annual,Alice,2693.0
+C0198,"Ward, Solis and Murphy",enterprise,North America,Healthcare,2024-11-25,annual,Charlie,11521.5
+C0199,West-Roy,mid-market,North America,Healthcare,2025-12-03,annual,Alice,4675.0
