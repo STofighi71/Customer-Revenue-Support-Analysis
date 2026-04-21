@@ -1,236 +1,188 @@
+# SaaS Business Intelligence Project
 
-# Customer Revenue & Support Analysis
+## Overview
 
-End-to-end data analytics project simulating SaaS business metrics including revenue, customer support activity, and retention analysis.
+This project demonstrates a complete end-to-end analytics workflow for a SaaS business environment.
+It includes synthetic data generation, data cleaning, SQL analysis, and an interactive Power BI dashboard.
 
-This project demonstrates the full workflow of a data analyst — from raw data generation to cleaning, SQL analysis, and building a Power BI dashboard.
-
----
-
-# Project Overview
-
-Novelus is a fictional SaaS company preparing internal analytics for strategic reporting and investor discussions.
-
-The goal of this project is to simulate realistic business data and demonstrate the ability to:
-
-• generate synthetic datasets
-• detect and clean real-world data quality issues
-• perform analytical queries using SQL
-• build an executive dashboard for business insights
-
-The project follows a structured four-step workflow.
-
----
-
-# Project Workflow
-
-## Step 1 — Data Generation (Python)
-
-A Python script generates three datasets representing two years of simulated SaaS company activity.
-
-Generated datasets:
-
-customers.csv — 200 customers
-transactions.csv — 500 revenue events
-support_tickets.csv — 300 support interactions
-
-The script intentionally embeds five realistic data quality issues to simulate problems commonly found in real company datasets.
-
-Embedded issues include:
-
-1. Duplicate rows
-2. Incorrect data types
-3. Impossible dates
-4. Inconsistent category labels
-5. Pattern-based missing values
-
-The output is saved in the **data/raw/** directory.
-
----
-
-## Step 2 — Data Cleaning (Python)
-
-A second Python script loads the raw datasets and performs a full cleaning pipeline.
-
-The cleaning process includes:
-
-• detecting duplicate rows
-• correcting incorrect data types
-• fixing inconsistent category labels
-• handling missing values
-• resolving impossible date relationships
-
-Cleaned datasets are saved in **data/clean/**.
-
-All decisions and assumptions are documented in:
-
-docs/cleaning_report.md
-
----
-
-## Step 3 — SQL Analysis
-
-The cleaned datasets are loaded into SQLite and analyzed using SQL.
-
-Eight analytical queries answer key business questions such as:
-
-• Total revenue by segment
-• Top revenue customers
-• Month-over-month revenue change
-• Customer churn rate
-• Customer support performance
-• Cohort retention analysis
-
-All queries are stored in:
-
-sql/queries.sql
-
-Each query includes a short comment describing the business question it answers.
-
----
-
-## Step 4 — Power BI Dashboard
-
-A three-page Power BI dashboard presents key metrics for leadership.
-
-Pages include:
-
-Executive Summary
-Customer Overview
-Support Analysis
-
-The dashboard contains KPIs such as:
-
-MRR
-ARR
-ARPA
-Net Revenue Retention
-Logo Churn Rate
-
-All pages share interactive filters for:
-
-• Date range
-• Customer segment
-
-Dashboard file:
-
-dashboard/dashboard.pbix
+The goal of the project is to simulate how a data analyst might analyze revenue, customer behavior, and support performance in a subscription-based software company.
 
 ---
 
 # Project Structure
 
 ```
-customer-revenue-support-analysis
+project/
 │
-├── data
-│   ├── raw
-│   └── clean
+├── data/
+│   ├── raw/
+│   └── clean/
 │
-├── scripts
-│   ├── data_generation.py
-│   └── cleaning_pipeline.py
-│   └── load_to_sqlite.py
-│
-├── sql
-│   └── queries.sql
-│
-├── docs
+├── docs/
 │   └── cleaning_report.md
 │
-├── dashboard
-│   └── dashboard.pbix
+├── scripts/
+│   ├── data_generation.py
+│   ├── cleaning_pipeline.py
+│   └── load_to_sqlite.py
 │
-├── requirements.txt
+├── sql/
+│   └── queries.sql
+│
+├── dashboard/
+│   └── saas_dashboard.pbix
+│
 └── README.md
 ```
 
 ---
 
-# Tools & Technologies
+# Step 1 — Data Generation
 
-Python
-Pandas
-NumPy
-Faker
-SQLite
-Power BI
+Synthetic datasets were generated to simulate a SaaS company environment.
+
+The following datasets were created:
+
+### customers
+
+Contains customer information including:
+
+* customer_id
+* company_name
+* segment
+* acquisition_date
+* MRR
+
+### transactions
+
+Simulates financial events such as subscriptions and churn.
+
+Columns include:
+
+* customer_id
+* month
+* transaction_type
+* amount
+
+### support_tickets
+
+Contains simulated customer support interactions.
+
+Columns include:
+
+* ticket_id
+* customer_id
+* open_date
+* channel
+* csat_score
+
+The generated datasets are stored in:
+
+```
+data/raw/
+```
 
 ---
 
-# Key Metrics Used
+# Step 2 — Data Cleaning
 
-MRR — Monthly Recurring Revenue
-ARR — Annual Recurring Revenue
-ARPA — Average Revenue Per Account
-NRR — Net Revenue Retention
-CSAT — Customer Satisfaction Score
+A cleaning script was used to:
+
+• remove missing values
+• standardize date formats
+• ensure numeric columns are valid
+• export cleaned datasets
+
+Clean data is stored in:
+
+```
+data/clean/
+```
 
 ---
 
-# How to Run the Project
+# Step 3 — SQL Analysis
 
-### 1. Install dependencies
+Clean datasets were loaded into SQLite.
 
-```
-pip install -r requirements.txt
-```
+Eight SQL queries were written to answer business questions such as:
 
-### 2. Generate raw data
+1. Total MRR by customer segment
+2. Top customers by revenue
+3. Month-over-month revenue growth
+4. Monthly churn
+5. Average CSAT by support channel
+6. Support ticket volume per customer
+7. Cohort revenue by signup quarter
+8. High-support customers before churn
 
-```
-python scripts/data_generation.py
-```
-
-### 3. Clean the datasets
-
-```
-python scripts/cleaning_pipeline.py
-```
-
-### 4. Run SQL analysis
-
-Load the cleaned data into SQLite and execute:
+These queries are stored in:
 
 ```
 sql/queries.sql
 ```
 
-Eight SQL queries were written to answer key SaaS business questions including:
+---
 
-• Revenue distribution by customer segment
-• Top customers by MRR
-• Month-over-month revenue change
-• Customer churn rate
-• Average customer satisfaction score for each support channel
-• Support ticket activity
-• Cohort retention analysis
-• Customers with more than three support tickets in a single month within 60 days
+# Step 4 — Power BI Dashboard
 
+An interactive dashboard was created using Power BI.
 
-
-### 5. Open the Power BI dashboard
-
-Open:
-
-```
-dashboard/dashboard.pbix
-```
+The dashboard contains three pages:
 
 ---
 
-# Purpose of This Project
+## Executive Summary
 
-This project is designed to demonstrate practical data analyst skills including:
+Key SaaS metrics:
 
-data simulation
-data quality management
-SQL analytics
-business metric analysis
-dashboard design
+• Monthly Recurring Revenue (MRR)
+• Annual Recurring Revenue (ARR)
+• Average Revenue Per Account (ARPA)
+• Net Revenue Retention (NRR)
+• Logo Churn Rate
 
-The workflow mirrors real-world analytics tasks performed in SaaS companies preparing internal reports and investor presentations.
+A time-series chart visualizes revenue growth.
 
+---
 
+## Customer Overview
+
+Provides insight into the customer base:
+
+• Customer table with revenue and CSAT
+• Customer distribution by segment
+• Relationship between revenue and support load
+
+---
+
+## Support Analysis
+
+Focuses on customer support performance:
+
+• Monthly ticket volume
+• Resolution time by priority
+• CSAT score distribution
+• Support channel performance
+
+---
+
+# Tools Used
+
+* Python
+* SQLite
+* Power BI
+* SQL
+
+---
+
+# Key Skills Demonstrated
+
+* Data generation
+* Data cleaning
+* SQL analytics
+* SaaS metrics analysis
+* BI dashboard design
+* End-to-end data workflow
 
 
