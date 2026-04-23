@@ -72,6 +72,8 @@ Some customers had missing values in the `mrr` column. This issue was intentiona
 
 Missing MRR values can cause aggregation functions such as SUM() to return NULL results in SQL.
 
+Missing transaction amounts were replaced with 0, assuming no revenue was generated for those records.
+
 ## How it was detected
 
 Missing values were detected using null checks on the `mrr` column.
