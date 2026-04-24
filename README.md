@@ -2,14 +2,13 @@
 
 ## Overview
 
-This project demonstrates a complete end-to-end analytics workflow for a SaaS business environment.
-It includes synthetic data generation, data cleaning, SQL analysis, and an interactive Power BI dashboard.
+This project demonstrates an end-to-end analytics workflow for a SaaS business environment. It covers data generation, cleaning, SQL-based analysis, and dashboard development in Power BI.
 
-The goal of the project is to simulate how a data analyst might analyze revenue, customer behavior, and support performance in a subscription-based software company.
+The objective is to simulate how a data analyst would analyze revenue performance, customer behavior, and support operations in a subscription-based business.
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```
 project/
@@ -30,53 +29,52 @@ project/
 │   └── queries.sql
 │
 ├── dashboard/
-│   └── saas_dashboard.pbix
+│   └── Customer-Revenue-Support-Dashboard.pbix
 │
 └── README.md
 ```
 
 ---
 
-# Step 1 — Data Generation
+## Step 1 — Data Generation
 
-Synthetic datasets were generated to simulate a SaaS company environment.
+Synthetic datasets were generated using Python to simulate a SaaS business model.
 
-The following datasets were created:
+### Datasets
 
-### customers
+#### customers
 
-Contains customer information including:
+Contains customer-level attributes:
 
 * customer_id
 * company_name
 * segment
+* region
 * acquisition_date
-* MRR
+* mrr
 
-### transactions
+#### transactions
 
-Simulates financial events such as subscriptions and churn.
-
-Columns include:
+Represents monthly revenue events:
 
 * customer_id
 * month
-* transaction_type
+* transaction_type (new, expansion, contraction, churn)
 * amount
 
-### support_tickets
+#### support_tickets
 
-Contains simulated customer support interactions.
-
-Columns include:
+Simulates support interactions:
 
 * ticket_id
 * customer_id
 * open_date
+* close_date
+* priority
 * channel
 * csat_score
 
-The generated datasets are stored in:
+Raw datasets are stored in:
 
 ```
 data/raw/
@@ -84,16 +82,19 @@ data/raw/
 
 ---
 
-# Step 2 — Data Cleaning
+## Step 2 — Data Cleaning
 
-A cleaning script was used to:
+A data cleaning pipeline was implemented to ensure data quality and consistency.
 
-• remove missing values
-• standardize date formats
-• ensure numeric columns are valid
-• export cleaned datasets
+### Key transformations:
 
-Clean data is stored in:
+* Handled missing values (e.g. amount → filled with 0)
+* Standardized date formats across all tables
+* Removed invalid or future dates
+* Ensured consistent data types
+* Generated proper date fields for time-based analysis
+
+Clean datasets are stored in:
 
 ```
 data/clean/
@@ -101,22 +102,22 @@ data/clean/
 
 ---
 
-# Step 3 — SQL Analysis
+## Step 3 — SQL Analysis
 
-Clean datasets were loaded into SQLite.
+Clean data was loaded into SQLite and analyzed using SQL.
 
-Eight SQL queries were written to answer business questions such as:
+### Business Questions Answered:
 
 1. Total MRR by customer segment
-2. Top customers by revenue
-3. Month-over-month revenue growth
-4. Monthly churn
+2. Top 10 customers by MRR
+3. Month-over-month revenue change
+4. Monthly logo churn
 5. Average CSAT by support channel
-6. Support ticket volume per customer
-7. Cohort revenue by signup quarter
-8. High-support customers before churn
+6. Support ticket volume per customer per month
+7. Cohort-based revenue (by signup quarter)
+8. Customers with high support activity before churn
 
-These queries are stored in:
+SQL queries are available in:
 
 ```
 sql/queries.sql
@@ -124,65 +125,106 @@ sql/queries.sql
 
 ---
 
-# Step 4 — Power BI Dashboard
+## Step 4 — Power BI Dashboard
 
-An interactive dashboard was created using Power BI.
-
-The dashboard contains three pages:
+An interactive dashboard was developed with three pages and shared slicers (date and segment).
 
 ---
 
-## Executive Summary
+### Executive Summary
 
-Key SaaS metrics:
+Key SaaS KPIs:
 
-• Monthly Recurring Revenue (MRR)
-• Annual Recurring Revenue (ARR)
-• Average Revenue Per Account (ARPA)
-• Net Revenue Retention (NRR)
-• Logo Churn Rate
+* Monthly Recurring Revenue (MRR)
+* Annual Recurring Revenue (ARR)
+* Average Revenue Per Account (ARPA)
+* Net Revenue Retention (NRR)
+* Logo Churn Rate
 
-A time-series chart visualizes revenue growth.
+Each KPI displays:
 
----
+* Current value
+* Change vs previous month (MoM)
 
-## Customer Overview
-
-Provides insight into the customer base:
-
-• Customer table with revenue and CSAT
-• Customer distribution by segment
-• Relationship between revenue and support load
+A time-series line chart shows MRR trend over time.
 
 ---
 
-## Support Analysis
+### Customer Overview
 
-Focuses on customer support performance:
+Provides insights into the customer base:
 
-• Monthly ticket volume
-• Resolution time by priority
-• CSAT score distribution
-• Support channel performance
+* Customer table including segment, region, MRR, and latest CSAT score
+* Distribution of customers by segment
+* Scatter plot of MRR vs. support ticket volume
 
 ---
 
-# Tools Used
+### Support Analysis
 
-* Python
-* SQLite
-* Power BI
+Focuses on operational performance:
+
+* Monthly ticket volume
+* Average resolution time by priority
+* CSAT score distribution
+* Ticket count and average CSAT by channel
+
+---
+
+## Data Model
+
+A star schema model was implemented:
+
+* DateTable connected to:
+
+  * transactions (transaction_date)
+  * support_tickets (open_date)
+* customers linked via customer_id
+
+Time intelligence is based on monthly granularity using MonthStart.
+
+---
+
+## Key Metrics (Definitions)
+
+* **MRR (Monthly Recurring Revenue)**: Sum of transaction amounts per month 
+* **ARR (Annual Recurring Revenue)**: MRR × 12 
+* **ARPA (Average Revenue Per Account)**: MRR / number of customers
+* **Churned Customers**: Distinct customers with churn transactions
+* **NRR (Net Revenue Retention)**: Ratio of non-churn revenue to total revenue (simplified)
+
+---
+
+## Important Notes
+
+* This project uses synthetic data, which may not fully reflect real-world SaaS distributions.
+* NRR values tend to be close to 1 due to relatively low churn impact in the generated dataset.
+* Churn events are sparse and distributed, resulting in low monthly churn counts.
+
+---
+
+## Tools Used
+
+* Python (data generation & cleaning)
+* SQLite (SQL analysis)
+* Power BI (dashboard)
 * SQL
 
 ---
 
-# Key Skills Demonstrated
+## Skills Demonstrated
 
-* Data generation
-* Data cleaning
-* SQL analytics
-* SaaS metrics analysis
-* BI dashboard design
-* End-to-end data workflow
+* End-to-end data pipeline development
+* Data cleaning and validation
+* SQL analytics and business queries
+* SaaS metric design and interpretation
+* Data modeling (star schema)
+* Dashboard design and storytelling
 
+---
 
+## Conclusion
+
+This project demonstrates the ability to transform raw data into actionable insights through a complete analytics workflow.
+
+It highlights both technical skills and analytical thinking required for real-world SaaS business intelligence scenarios.
