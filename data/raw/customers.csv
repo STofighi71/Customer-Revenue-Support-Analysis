@@ -1,201 +1,201 @@
 customer_id,company_name,segment,region,industry,acquisition_date,contract_type,csm_name,mrr
-1,"Rodriguez, Figueroa and Sanchez",Enterprise,EMEA,Finance,2023-02-24,annual,Megan Mcclain,17049
-2,Garza Inc,SMB,North America,Healthcare,2023-01-12,monthly,David Guzman,39698
-3,"Gonzalez, Santos and Gardner",Mid-Market,EMEA,Finance,2023-03-27,monthly,Donald Booth,15328
-4,Wolfe LLC,SMB,EMEA,Logistics,2023-04-18,annual,Tyler Rogers,15446
-5,James LLC,Mid-Market,APAC,Finance,2023-11-26,monthly,Dennis Williams,46753
-6,Herrera-Dudley,Mid-Market,APAC,EdTech,2023-05-28,monthly,Edward Fuller,15110
-7,Ray-Bush,Mid-Market,EMEA,Healthcare,2023-01-18,annual,Patricia Galloway,7338
-8,Delacruz Group,Mid-Market,APAC,EdTech,2023-04-18,monthly,Roy Martin,48823
-9,Clark-Adams,Mid-Market,EMEA,Manufacturing,2023-12-30,monthly,Andrea Reid,37178
-10,"Daniel, Martin and Gray",Mid-Market,APAC,Logistics,2023-12-26,monthly,Kristin Cohen,4003
-11,Perez Inc,Enterprise,North America,EdTech,2023-11-09,monthly,Derek Clark,16256
-12,"Walter, Edwards and Rios",SMB,LATAM,EdTech,2023-06-03,annual,Maria Thomas,42660
-13,Wright PLC,Mid-Market,North America,SaaS,2023-07-29,annual,Kevin Hurst,14730
-14,Cox-Osborn,Enterprise,APAC,Healthcare,2023-02-23,monthly,Ann Williams,36005
-15,Hernandez and Sons,Enterprise,North America,Retail,2023-11-04,annual,Linda Cruz,25867
-16,"Ferrell, Rice and Maddox",Mid-Market,North America,SaaS,2023-12-01,monthly,Melanie Wilson,16010
-17,"Potter, Mack and Peterson",SMB,APAC,Manufacturing,2023-04-24,annual,Jesse Mckay,5337
-18,"Baker, Mason and White",SMB,APAC,Logistics,2023-12-21,annual,Mario Skinner,26928
-19,"Lynch, Hernandez and Farmer",Enterprise,LATAM,Retail,2023-07-29,annual,Tammy Sellers,10150
-20,"Nguyen, Smith and Hickman",SMB,APAC,Manufacturing,2023-12-08,annual,Dr. Cynthia Allen,24723
-21,"Arroyo, Miller and Tucker",SMB,North America,Media,2023-01-27,monthly,Kim Martinez,4087
-22,"Alvarez, Pierce and Baker",SMB,North America,Retail,2023-12-05,annual,Tracey Hickman,40086
-23,"Vaughn, Marquez and Ross",SMB,LATAM,Manufacturing,2023-09-18,annual,Jessica Holmes,35676
-24,Wright Inc,Mid-Market,EMEA,Healthcare,2023-05-12,annual,Julian Chapman,43006
-25,Jones Ltd,Mid-Market,EMEA,EdTech,2023-01-23,annual,Taylor Heath,11365
-26,Palmer LLC,Mid-Market,EMEA,EdTech,2023-09-17,monthly,Mr. Nathaniel Khan,34271
-27,"Kennedy, Mueller and Aguirre",SMB,APAC,Logistics,2023-03-15,monthly,Matthew Gomez,25504
-28,Owens-Daniel,SMB,EMEA,SaaS,2023-09-19,annual,Maria Brown,2276
-29,"Morgan, Hensley and Wright",SMB,APAC,EdTech,2023-03-15,monthly,Brenda White,4796
-30,Wright-Leblanc,SMB,EMEA,Healthcare,2023-06-22,annual,Savannah Garcia,5535
-31,"Kidd, Huff and Novak",Enterprise,North America,Retail,2023-12-26,annual,Cynthia Russell,37031
-32,Lewis-Morales,SMB,APAC,Manufacturing,2023-01-23,monthly,Aaron Myers,36343
-33,Mitchell-Horton,Enterprise,North America,EdTech,2023-10-11,annual,Kristi Higgins MD,45019
-34,Robinson-Brown,Enterprise,APAC,Media,2023-10-13,annual,Nicole Brown,8930
-35,"Woods, Calhoun and Schmidt",SMB,North America,Healthcare,2023-01-23,annual,Angela Lopez,2378
-36,"Jones, Hensley and Powell",Enterprise,North America,Logistics,2023-12-12,monthly,Lauren Williams,5652
-37,Barnes PLC,Enterprise,EMEA,Logistics,2023-08-08,monthly,Taylor Harris,3058
-38,"Edwards, Baker and Anderson",Mid-Market,EMEA,Logistics,2023-09-08,annual,Eugene Walton,44842
-39,Smith PLC,Mid-Market,North America,Retail,2023-08-07,annual,Angel Lewis MD,16925
-40,Ibarra-Suarez,Mid-Market,LATAM,Logistics,2023-05-24,monthly,Jeffrey Daniels,7352
-41,Carr-Archer,Enterprise,LATAM,SaaS,2023-09-11,annual,Mary Spencer,27941
-42,"Garcia, Humphrey and Baker",Mid-Market,EMEA,Healthcare,2023-12-12,monthly,Juan Nelson,27386
-43,"Clark, Cooper and Watts",Enterprise,APAC,Healthcare,2023-11-28,monthly,John Whitehead,13556
-44,Davis Group,SMB,LATAM,Retail,2023-11-19,annual,Aaron Wise,13025
-45,"Whitney, Martin and Ramos",Mid-Market,LATAM,Logistics,2023-10-02,monthly,Adam Jones,30041
-46,"Mckee, Gardner and Davenport",Enterprise,EMEA,Finance,2023-08-15,monthly,Jessica Williams,7112
-47,Nolan-Flynn,SMB,North America,Manufacturing,2023-12-01,annual,Hunter Fleming,32546
-48,"Garcia, Deleon and Henson",SMB,LATAM,Finance,2023-06-07,monthly,Nicole Frost,25836
-49,Hancock and Sons,SMB,LATAM,EdTech,2023-12-09,annual,Christopher Middleton,19694
-50,Pham-Shields,Mid-Market,LATAM,Retail,2023-11-11,monthly,Christopher Haynes,20445
-51,Brennan-Garrison,SMB,EMEA,Finance,2023-03-28,annual,Thomas Bailey,4746
-52,Walker Ltd,SMB,LATAM,Retail,2023-03-17,monthly,Donald Jones,34281
-53,Bell-Hicks,SMB,North America,Healthcare,2023-09-21,monthly,Ms. Teresa Wilson,45250
-54,White-Estes,SMB,LATAM,Healthcare,2023-04-14,monthly,Kyle Reed,38940
-55,Graham-Joyce,Enterprise,EMEA,Healthcare,2023-02-14,annual,Kenneth Scott,44081
-56,"Graham, Meyer and Drake",Enterprise,APAC,EdTech,2023-09-24,monthly,Natalie Lambert,44891
-57,Reynolds-Rush,Enterprise,APAC,Logistics,2023-12-24,annual,Erik Charles,26938
-58,"Mccullough, Hunter and Estrada",SMB,APAC,Media,2023-05-07,annual,Edward Martinez,5754
-59,Ortega-Gray,SMB,LATAM,Healthcare,2023-10-18,monthly,Lisa Turner,36234
-60,"Bass, Torres and Clark",SMB,APAC,Retail,2023-11-02,annual,Mary Marshall,5508
-61,Lowe-Dixon,SMB,APAC,EdTech,2023-11-05,monthly,Rebecca Jackson,29716
-62,Campbell Ltd,Enterprise,APAC,Finance,2023-09-03,annual,Anna Crane,44475
-63,Chambers and Sons,SMB,North America,EdTech,2023-11-10,monthly,Alexander Sanchez,8014
-64,Carr-Mack,Enterprise,North America,EdTech,2023-06-26,annual,Mark Lee,40638
-65,"Cruz, Ross and Hernandez",SMB,APAC,Logistics,2023-09-25,annual,Paul Carrillo,34122
-66,Osborne and Sons,Mid-Market,APAC,Finance,2023-03-10,monthly,Melissa Marshall,42568
-67,"Wright, Charles and Bryant",Mid-Market,APAC,Finance,2023-11-08,monthly,Joseph Hansen,22859
-68,Dodson-Vance,SMB,APAC,Retail,2023-08-26,annual,Stephanie Simmons,37154
-69,"Griffin, Moore and Hensley",Enterprise,LATAM,Finance,2023-06-24,monthly,David Walsh,5931
-70,"Washington, Allen and Gonzales",Enterprise,North America,Finance,2023-10-05,annual,Devon Flores,39175
-71,"Miller, Hernandez and Reyes",Enterprise,North America,Manufacturing,2023-03-01,monthly,Amy Russell,3741
-72,"Owens, Brown and Wall",Mid-Market,APAC,Finance,2023-06-01,annual,Lauren Dominguez,14767
-73,"James, Smith and Bell",Enterprise,North America,Healthcare,2023-10-20,annual,Steven Houston,37692
-74,"Adkins, Payne and Morrison",Mid-Market,North America,Logistics,2023-03-27,monthly,Don Tucker MD,12603
-75,"Shelton, Powell and Martin",Mid-Market,EMEA,Retail,2023-07-01,annual,Veronica Ferguson,27982
-76,Vargas-Alvarado,Enterprise,North America,EdTech,2023-02-02,monthly,Brandy Murray,46958
-77,Green LLC,SMB,LATAM,Finance,2023-03-24,annual,George Hobbs,15577
-78,Walton-Decker,SMB,LATAM,SaaS,2023-04-08,annual,Julie Curry,15915
-79,Cooke LLC,SMB,EMEA,Logistics,2023-03-29,annual,Rachael Pearson,22512
-80,Herring and Sons,Mid-Market,EMEA,EdTech,2023-11-22,annual,Christian Martinez,43040
-81,"Wilson, Gould and Marshall",Enterprise,LATAM,SaaS,2023-04-10,monthly,Carol Lawson,8559
-82,"Higgins, Strickland and Martin",Mid-Market,North America,EdTech,2023-05-01,monthly,Alexander Collins,8104
-83,"Odonnell, Brooks and David",Enterprise,LATAM,SaaS,2023-03-19,annual,Michael Burton,29599
-84,Terry LLC,Enterprise,EMEA,Manufacturing,2023-11-27,monthly,Renee Hogan,17693
-85,"Patton, Reed and Patterson",SMB,LATAM,Finance,2023-05-24,monthly,Matthew Smith,24869
-86,Short-Garcia,Mid-Market,EMEA,SaaS,2023-05-21,annual,Sandra Zimmerman,44475
-87,Thompson-Boyd,SMB,APAC,EdTech,2023-09-10,annual,Robert Medina,22376
-88,Marshall-Petersen,Mid-Market,APAC,Retail,2023-08-19,monthly,Samuel Rivas,28554
-89,Ramirez Group,Enterprise,LATAM,Retail,2023-04-05,annual,Laura Barnett,27612
-90,Johnson-Rosales,Enterprise,EMEA,EdTech,2023-03-12,annual,Mr. David Ramirez,14774
-91,"Haynes, Hill and Smith",Mid-Market,APAC,Media,2023-03-16,annual,Nathan Freeman,29977
-92,Vaughn Ltd,Enterprise,North America,Media,2023-10-04,monthly,Ricky Davis II,44178
-93,"Sanchez, Beck and Wood",SMB,APAC,SaaS,2023-08-03,monthly,Jessica Reese,16392
-94,Bell-Chavez,Enterprise,APAC,Logistics,2023-04-30,monthly,Bryan Lee,10656
-95,Newton Ltd,SMB,EMEA,Logistics,2023-03-13,annual,Parker Hill,41060
-96,"Bray, Warren and Campbell",SMB,LATAM,Manufacturing,2023-02-09,monthly,Elizabeth Ward,48077
-97,Smith-Ferguson,Enterprise,LATAM,Media,2023-04-17,annual,Anthony Carter,16989
-98,Little Group,SMB,EMEA,Healthcare,2023-02-09,annual,Laura Harrison,15341
-99,Peterson-Sheppard,SMB,LATAM,Finance,2023-04-09,monthly,Karen Short,8953
-100,Vasquez-Ray,Mid-Market,North America,Media,2023-09-24,annual,Chase Hart,30004
-101,Miller-Wright,Enterprise,LATAM,Media,2023-08-05,monthly,Lisa Gibbs,49736
-102,Rowe Group,Mid-Market,LATAM,EdTech,2023-06-24,monthly,Elizabeth Chapman,42789
-103,Torres-Oliver,Mid-Market,LATAM,Logistics,2023-08-25,annual,Annette Farmer,29827
-104,"Clark, Guerrero and Moore",SMB,APAC,Logistics,2023-03-09,annual,Brooke Ortiz,23010
-105,"Wheeler, Carter and Hall",Mid-Market,EMEA,Retail,2023-10-02,monthly,Scott Jones,16155
-106,Bradshaw Ltd,Mid-Market,North America,Logistics,2023-08-18,monthly,Taylor Coleman,28188
-107,"Walker, Hernandez and Baker",Mid-Market,APAC,Media,2023-02-25,annual,Christopher Parker,5080
-108,"Holloway, Morse and Gonzales",SMB,LATAM,Manufacturing,2023-07-02,monthly,Melissa Bender,38728
-109,"Fernandez, Kim and George",Mid-Market,LATAM,Finance,2023-12-12,annual,Frank Wright,20569
-110,Perez Ltd,Mid-Market,LATAM,Logistics,2023-11-21,annual,Laurie Smith,15380
-111,"Underwood, Johnston and Hines",Mid-Market,LATAM,Media,2023-03-10,monthly,Matthew Moon,26484
-112,Shea Group,Mid-Market,LATAM,Retail,2023-09-04,annual,Tracy Harrison,9364
-113,Cook-Santiago,Enterprise,EMEA,Manufacturing,2023-11-30,monthly,Jason Simpson,6501
-114,"Landry, Cervantes and Pierce",Enterprise,LATAM,Retail,2023-06-26,annual,David Wilson,12909
-115,Hancock-Bryan,SMB,APAC,Manufacturing,2023-01-01,annual,Kimberly Gutierrez,14871
-116,Stone PLC,Mid-Market,APAC,SaaS,2023-10-21,annual,Mr. Anthony Adams Jr.,19235
-117,Kim-Wolfe,Mid-Market,APAC,Healthcare,2023-02-17,annual,Mark Lloyd,2270
-118,"Moore, Pierce and Tran",Enterprise,EMEA,SaaS,2023-02-06,monthly,Ryan Wilson,43607
-119,Holland and Sons,SMB,EMEA,Finance,2023-07-13,monthly,Dorothy Thornton,14065
-120,Davenport-Baird,SMB,North America,Logistics,2023-04-05,monthly,Charles Lee,32035
-121,"Romero, Suarez and Shields",Enterprise,EMEA,Logistics,2023-04-18,annual,Sarah Morgan,46840
-122,"Adams, Smith and Barber",Mid-Market,APAC,Retail,2023-11-22,monthly,Yvonne Burns,11732
-123,Griffin Group,Mid-Market,EMEA,Finance,2023-05-15,annual,Phillip Bennett,38735
-124,Kane-Pollard,Enterprise,LATAM,Manufacturing,2023-04-03,monthly,Cynthia Rowe,5980
-125,Flores Group,Enterprise,North America,Healthcare,2023-10-01,annual,Jane Mcneil,45843
-126,"Pollard, Simpson and Johnson",Enterprise,EMEA,Finance,2023-07-15,annual,Evelyn Garcia,35913
-127,Garcia-Lozano,Mid-Market,APAC,Healthcare,2023-01-06,annual,Jennifer Pena,1829
-128,Jones LLC,Mid-Market,LATAM,Healthcare,2023-05-12,annual,Jennifer Miller,24736
-129,Phelps-Villarreal,Enterprise,LATAM,Retail,2023-05-28,annual,Lori Clay,12543
-130,Brennan-Johnson,Enterprise,APAC,Media,2023-01-27,annual,Michael Mitchell,29545
-131,Francis Group,Enterprise,APAC,SaaS,2023-02-08,monthly,Michele Garcia,6679
-132,Benson Inc,Mid-Market,LATAM,Logistics,2023-01-18,annual,Anthony Howard,38345
-133,Thomas-Schmidt,Enterprise,LATAM,SaaS,2023-08-08,monthly,Catherine Thompson,33394
-134,"Pitts, Harvey and Allen",Mid-Market,North America,Media,2023-12-21,monthly,Crystal Little,24253
-135,Scott-Smith,Mid-Market,APAC,EdTech,2023-11-09,annual,Dwayne Payne,37424
-136,Alexander LLC,SMB,North America,Healthcare,2023-08-17,monthly,Victor Vaughn,48190
-137,Bruce-Gonzalez,Mid-Market,LATAM,Logistics,2023-05-30,annual,Ashley James,43329
-138,Andrews-Haney,Enterprise,LATAM,Media,2023-04-25,monthly,Ronald Foster,7098
-139,Knight Ltd,Mid-Market,North America,Manufacturing,2023-10-30,monthly,Amber Obrien,21067
-140,Wall-Leach,Enterprise,APAC,Media,2023-10-29,annual,Lisa Gomez,28885
-141,"Lee, King and Campos",Enterprise,APAC,SaaS,2023-10-26,annual,Sara Fuller,18754
-142,"Lucas, Parker and Alexander",Mid-Market,APAC,Logistics,2023-08-14,monthly,Carlos Browning,48270
-143,Burgess-Thompson,SMB,APAC,Healthcare,2023-02-21,monthly,Sherri Diaz,13552
-144,"Mcintyre, Rivas and Scott",SMB,LATAM,EdTech,2023-11-17,annual,Tracy Phillips,7588
-145,Brock-Mcdonald,SMB,APAC,Logistics,2023-01-30,annual,Vincent Dalton,12759
-146,"Craig, Sanders and Singleton",Mid-Market,EMEA,Retail,2023-08-05,annual,Richard Smith,3982
-147,"Martinez, Richardson and Curry",SMB,APAC,Retail,2023-04-12,annual,Samantha Bentley,7723
-148,Leonard Group,SMB,APAC,Media,2023-01-10,annual,Terri Murphy,29866
-149,"Walker, Brown and Colon",Mid-Market,North America,Finance,2023-12-20,annual,Marie Wilson,32308
-150,Shah LLC,SMB,EMEA,Manufacturing,2023-07-11,annual,David Medina,5855
-151,Chavez-Santiago,Enterprise,EMEA,Retail,2023-10-16,monthly,Kimberly Matthews,37886
-152,"Moore, Perry and Garcia",Mid-Market,EMEA,Logistics,2023-07-10,monthly,Teresa Ramirez,37573
-153,"Wood, Ramos and Sampson",Mid-Market,North America,Manufacturing,2023-11-29,annual,William Richardson,30014
-154,"Howard, Sanders and Lopez",Mid-Market,LATAM,EdTech,2023-02-17,monthly,Samantha Davis,40952
-155,May PLC,Enterprise,EMEA,Logistics,2023-01-09,monthly,Gavin Zhang,18343
-156,"Harris, Gallegos and Spencer",Enterprise,EMEA,Retail,2023-08-16,monthly,Sergio Murphy,12391
-157,Kramer PLC,Enterprise,EMEA,Retail,2023-01-02,monthly,William Huerta,27772
-158,"King, Thompson and Guerrero",Mid-Market,LATAM,EdTech,2023-01-11,monthly,Hunter Kramer,16170
-159,"Morris, Thompson and Williams",Mid-Market,APAC,Media,2023-10-16,monthly,Brian Brown,46048
-160,Strickland-Palmer,SMB,APAC,Logistics,2023-02-12,annual,Daniel Gilbert,8521
-161,"Logan, Camacho and Boyd",Enterprise,North America,Retail,2023-06-27,annual,Amanda Lutz,10321
-162,Simmons-Rodriguez,SMB,EMEA,Retail,2023-10-04,annual,Angel Miller,39996
-163,"Hernandez, Martinez and Weber",Enterprise,APAC,Media,2023-08-16,monthly,Erika Vang,31716
-164,"Phillips, Wagner and Jordan",Enterprise,APAC,Manufacturing,2023-11-05,annual,Sarah Curtis,33798
-165,"Le, Lewis and Hayes",Enterprise,LATAM,Media,2023-03-30,monthly,Ronald Ross,40192
-166,"Davis, Simmons and Ortega",SMB,LATAM,SaaS,2023-05-26,annual,Melissa Wells,2695
-167,Decker Inc,SMB,North America,Finance,2023-06-17,annual,Parker Cain,38764
-168,"Brown, Frye and Hoffman",SMB,North America,Media,2023-09-18,annual,Hayden Ortega,19229
-169,Parrish-Griffith,SMB,LATAM,Media,2023-04-22,monthly,Heather Lane,31802
-170,Moore Group,Mid-Market,LATAM,SaaS,2023-03-29,annual,Hayley Hawkins,44917
-171,Farmer PLC,SMB,North America,SaaS,2023-03-29,annual,Sarah Villegas,46460
-172,"Austin, Day and Johnson",Mid-Market,APAC,Manufacturing,2023-12-27,monthly,Melissa Johnson,30807
-173,Park-Parker,SMB,APAC,EdTech,2023-05-12,annual,Christopher Thomas,8597
-174,"Morales, Thomas and Schultz",Mid-Market,EMEA,Media,2023-01-12,annual,Joseph Bennett,4552
-175,Peterson-Wood,SMB,APAC,Media,2023-10-08,annual,Todd Carlson,4382
-176,Moore PLC,SMB,APAC,Retail,2023-01-20,annual,Denise Stanley,29712
-177,Lawson-Perry,Enterprise,LATAM,Healthcare,2023-03-25,monthly,Ashley Jordan,42289
-178,Gregory-Watkins,Enterprise,North America,Retail,2023-07-24,annual,Amber Foster,37099
-179,"Brown, Harris and Dougherty",SMB,LATAM,Healthcare,2023-10-26,monthly,David Murphy,8435
-180,Jimenez Group,Mid-Market,EMEA,Retail,2023-03-10,annual,Joseph Hall,47963
-181,"Whitaker, Drake and Jones",Mid-Market,APAC,Manufacturing,2023-12-01,annual,Jessica Stevens,31947
-182,Atkins PLC,SMB,LATAM,Retail,2023-06-16,annual,Michelle Butler,13491
-183,Sullivan LLC,Enterprise,North America,Healthcare,2023-03-08,annual,Lisa Collier,28193
-184,Davis-Richard,Mid-Market,APAC,Finance,2023-04-05,annual,James Miller,48582
-185,Reese-Walker,Mid-Market,LATAM,Retail,2023-10-30,annual,Jordan Wilson,36296
-186,"Lee, Parsons and Bell",Mid-Market,APAC,SaaS,2023-11-15,annual,Brittany Garcia,30841
-187,Gonzalez-Morrison,Mid-Market,North America,Logistics,2023-10-23,annual,Angela Bean,16306
-188,"Snyder, Webster and Wolf",Mid-Market,EMEA,SaaS,2023-06-24,annual,Sonia Day,47217
-189,"Morris, Maddox and Stewart",Mid-Market,LATAM,Retail,2023-06-20,annual,Jeremy Turner,3426
-190,Vargas-Bell,SMB,APAC,Healthcare,2023-01-29,annual,Jesse Brown,7534
-191,Jones-Lin,Enterprise,LATAM,Finance,2023-11-29,monthly,Kirk Cruz,27868
-192,"Spencer, Conner and Huang",Enterprise,North America,Healthcare,2023-06-24,annual,Laura Lopez,18368
-193,"Alvarez, Hernandez and Brown",Mid-Market,LATAM,Healthcare,2023-02-10,annual,Sara Haas,45194
-194,Wagner and Sons,Enterprise,LATAM,SaaS,2023-01-16,annual,Jeffrey Gonzales,36456
-195,"Bishop, Cox and Hardin",SMB,EMEA,Logistics,2023-05-31,annual,George Harper,15908
-196,"Holland, Jones and Davis",Enterprise,EMEA,Manufacturing,2023-09-21,monthly,David York,42533
-197,"Marks, Cook and Aguilar",Enterprise,EMEA,Media,2023-02-24,monthly,Emily Douglas,46482
-198,"Myers, Larson and Hurley",Mid-Market,EMEA,Finance,2023-05-01,annual,Maria Murphy,4677
-199,Santiago Ltd,Mid-Market,APAC,SaaS,2023-09-24,annual,Anna Santiago,10540
-200,"Cox, Cox and White",SMB,LATAM,Retail,2023-03-25,monthly,Ralph Lee,12473
+C0000,Company_0,SMB,EMEA,Finance,2023-01-01,annual,,200
+C0001,Company_1,SMB,EMEA,Healthcare,2023-01-02,monthly,,280
+C0002,Company_2,SMB,EMEA,Retail,2023-01-03,monthly,,360
+C0003,Company_3,SMB,EMEA,Logistics,2023-01-04,annual,,440
+C0004,Company_4,SMB,North America,EdTech,2023-01-05,monthly,,520
+C0005,Company_5,Mid-Market,North America,SaaS,2023-01-06,monthly,CSM_5,600
+C0006,Company_6,Mid-Market,North America,Energy,2023-01-07,annual,CSM_6,680
+C0007,Company_7,Mid-Market,APAC,Manufacturing,2023-01-08,monthly,CSM_7,760
+C0008,Company_8,enterprise,APAC,Finance,2023-01-09,monthly,CSM_0,840
+C0009,Company_9,enterprise,LATAM,Healthcare,2023-01-10,annual,CSM_1,920
+C0010,Company_10,SMB,EMEA,Retail,2023-01-11,monthly,,1000
+C0011,Company_11,SMB,EMEA,Logistics,2023-01-12,monthly,,1080
+C0012,Company_12,SMB,EMEA,EdTech,2023-01-13,annual,,1160
+C0013,Company_13,SMB,EMEA,SaaS,2023-01-14,monthly,,1240
+C0014,Company_14,SMB,North America,Energy,2023-01-15,monthly,,1320
+C0015,Company_15,Mid-Market,North America,Manufacturing,2023-01-16,annual,CSM_7,1400
+C0016,Company_16,Mid-Market,North America,Finance,2023-01-17,monthly,CSM_0,1480
+C0017,Company_17,Mid-Market,APAC,Healthcare,2023-01-18,monthly,CSM_1,1560
+C0018,Company_18,enterprise,APAC,Retail,2023-01-19,annual,CSM_2,1640
+C0019,Company_19,enterprise,LATAM,Logistics,2023-01-20,monthly,CSM_3,1720
+C0020,Company_20,SMB,EMEA,EdTech,2023-01-21,monthly,,1800
+C0021,Company_21,SMB,EMEA,SaaS,2023-01-22,annual,,1880
+C0022,Company_22,SMB,EMEA,Energy,2023-01-23,monthly,,1960
+C0023,Company_23,SMB,EMEA,Manufacturing,2023-01-24,monthly,,2040
+C0024,Company_24,SMB,North America,Finance,2023-01-25,annual,,2120
+C0025,Company_25,Mid-Market,North America,Healthcare,2023-01-26,monthly,CSM_1,2200
+C0026,Company_26,Mid-Market,North America,Retail,2023-01-27,monthly,CSM_2,2280
+C0027,Company_27,Mid-Market,APAC,Logistics,2023-01-28,annual,CSM_3,2360
+C0028,Company_28,enterprise,APAC,EdTech,2023-01-29,monthly,CSM_4,2440
+C0029,Company_29,enterprise,LATAM,SaaS,2023-01-30,monthly,CSM_5,2520
+C0030,Company_30,SMB,EMEA,Energy,2023-01-31,annual,,200
+C0031,Company_31,SMB,EMEA,Manufacturing,2023-02-01,monthly,,280
+C0032,Company_32,SMB,EMEA,Finance,2023-02-02,monthly,,360
+C0033,Company_33,SMB,EMEA,Healthcare,2023-02-03,annual,,440
+C0034,Company_34,SMB,North America,Retail,2023-02-04,monthly,,520
+C0035,Company_35,Mid-Market,North America,Logistics,2023-02-05,monthly,CSM_3,600
+C0036,Company_36,Mid-Market,North America,EdTech,2023-02-06,annual,CSM_4,680
+C0037,Company_37,Mid-Market,APAC,SaaS,2023-02-07,monthly,CSM_5,760
+C0038,Company_38,enterprise,APAC,Energy,2023-02-08,monthly,CSM_6,840
+C0039,Company_39,enterprise,LATAM,Manufacturing,2023-02-09,annual,CSM_7,920
+C0040,Company_40,SMB,EMEA,Finance,2023-02-10,monthly,,1000
+C0041,Company_41,SMB,EMEA,Healthcare,2023-02-11,monthly,,1080
+C0042,Company_42,SMB,EMEA,Retail,2023-02-12,annual,,1160
+C0043,Company_43,SMB,EMEA,Logistics,2023-02-13,monthly,,1240
+C0044,Company_44,SMB,North America,EdTech,2023-02-14,monthly,,1320
+C0045,Company_45,Mid-Market,North America,SaaS,2023-02-15,annual,CSM_5,1400
+C0046,Company_46,Mid-Market,North America,Energy,2023-02-16,monthly,CSM_6,1480
+C0047,Company_47,Mid-Market,APAC,Manufacturing,2023-02-17,monthly,CSM_7,1560
+C0048,Company_48,enterprise,APAC,Finance,2023-02-18,annual,CSM_0,1640
+C0049,Company_49,enterprise,LATAM,Healthcare,2023-02-19,monthly,CSM_1,1720
+C0050,Company_50,SMB,EMEA,Retail,2023-02-20,monthly,,1800
+C0051,Company_51,SMB,EMEA,Logistics,2023-02-21,annual,,1880
+C0052,Company_52,SMB,EMEA,EdTech,2023-02-22,monthly,,1960
+C0053,Company_53,SMB,EMEA,SaaS,2023-02-23,monthly,,2040
+C0054,Company_54,SMB,North America,Energy,2023-02-24,annual,,2120
+C0055,Company_55,Mid-Market,North America,Manufacturing,2023-02-25,monthly,CSM_7,2200
+C0056,Company_56,Mid-Market,North America,Finance,2023-02-26,monthly,CSM_0,2280
+C0057,Company_57,Mid-Market,APAC,Healthcare,2023-02-27,annual,CSM_1,2360
+C0058,Company_58,enterprise,APAC,Retail,2023-02-28,monthly,CSM_2,2440
+C0059,Company_59,enterprise,LATAM,Logistics,2023-03-01,monthly,CSM_3,2520
+C0060,Company_60,SMB,EMEA,EdTech,2023-03-02,annual,,200
+C0061,Company_61,SMB,EMEA,SaaS,2023-03-03,monthly,,280
+C0062,Company_62,SMB,EMEA,Energy,2023-03-04,monthly,,360
+C0063,Company_63,SMB,EMEA,Manufacturing,2023-03-05,annual,,440
+C0064,Company_64,SMB,North America,Finance,2023-03-06,monthly,,520
+C0065,Company_65,Mid-Market,North America,Healthcare,2023-03-07,monthly,CSM_1,600
+C0066,Company_66,Mid-Market,North America,Retail,2023-03-08,annual,CSM_2,680
+C0067,Company_67,Mid-Market,APAC,Logistics,2023-03-09,monthly,CSM_3,760
+C0068,Company_68,enterprise,APAC,EdTech,2023-03-10,monthly,CSM_4,840
+C0069,Company_69,enterprise,LATAM,SaaS,2023-03-11,annual,CSM_5,920
+C0070,Company_70,SMB,EMEA,Energy,2023-03-12,monthly,,1000
+C0071,Company_71,SMB,EMEA,Manufacturing,2023-03-13,monthly,,1080
+C0072,Company_72,SMB,EMEA,Finance,2023-03-14,annual,,1160
+C0073,Company_73,SMB,EMEA,Healthcare,2023-03-15,monthly,,1240
+C0074,Company_74,SMB,North America,Retail,2023-03-16,monthly,,1320
+C0075,Company_75,Mid-Market,North America,Logistics,2023-03-17,annual,CSM_3,1400
+C0076,Company_76,Mid-Market,North America,EdTech,2023-03-18,monthly,CSM_4,1480
+C0077,Company_77,Mid-Market,APAC,SaaS,2023-03-19,monthly,CSM_5,1560
+C0078,Company_78,enterprise,APAC,Energy,2023-03-20,annual,CSM_6,1640
+C0079,Company_79,enterprise,LATAM,Manufacturing,2023-03-21,monthly,CSM_7,1720
+C0080,Company_80,SMB,EMEA,Finance,2023-03-22,monthly,,1800
+C0081,Company_81,SMB,EMEA,Healthcare,2023-03-23,annual,,1880
+C0082,Company_82,SMB,EMEA,Retail,2023-03-24,monthly,,1960
+C0083,Company_83,SMB,EMEA,Logistics,2023-03-25,monthly,,2040
+C0084,Company_84,SMB,North America,EdTech,2023-03-26,annual,,2120
+C0085,Company_85,Mid-Market,North America,SaaS,2023-03-27,monthly,CSM_5,2200
+C0086,Company_86,Mid-Market,North America,Energy,2023-03-28,monthly,CSM_6,2280
+C0087,Company_87,Mid-Market,APAC,Manufacturing,2023-03-29,annual,CSM_7,2360
+C0088,Company_88,enterprise,APAC,Finance,2023-03-30,monthly,CSM_0,2440
+C0089,Company_89,enterprise,LATAM,Healthcare,2023-03-31,monthly,CSM_1,2520
+C0090,Company_90,SMB,EMEA,Retail,2023-04-01,annual,,200
+C0091,Company_91,SMB,EMEA,Logistics,2023-04-02,monthly,,280
+C0092,Company_92,SMB,EMEA,EdTech,2023-04-03,monthly,,360
+C0093,Company_93,SMB,EMEA,SaaS,2023-04-04,annual,,440
+C0094,Company_94,SMB,North America,Energy,2023-04-05,monthly,,520
+C0095,Company_95,Mid-Market,North America,Manufacturing,2023-04-06,monthly,CSM_7,600
+C0096,Company_96,Mid-Market,North America,Finance,2023-04-07,annual,CSM_0,680
+C0097,Company_97,Mid-Market,APAC,Healthcare,2023-04-08,monthly,CSM_1,760
+C0098,Company_98,enterprise,APAC,Retail,2023-04-09,monthly,CSM_2,840
+C0099,Company_99,enterprise,LATAM,Logistics,2023-04-10,annual,CSM_3,920
+C0100,Company_100,SMB,EMEA,EdTech,2023-04-11,monthly,,1000
+C0101,Company_101,SMB,EMEA,SaaS,2023-04-12,monthly,,1080
+C0102,Company_102,SMB,EMEA,Energy,2023-04-13,annual,,1160
+C0103,Company_103,SMB,EMEA,Manufacturing,2023-04-14,monthly,,1240
+C0104,Company_104,SMB,North America,Finance,2023-04-15,monthly,,1320
+C0105,Company_105,Mid-Market,North America,Healthcare,2023-04-16,annual,CSM_1,1400
+C0106,Company_106,Mid-Market,North America,Retail,2023-04-17,monthly,CSM_2,1480
+C0107,Company_107,Mid-Market,APAC,Logistics,2023-04-18,monthly,CSM_3,1560
+C0108,Company_108,enterprise,APAC,EdTech,2023-04-19,annual,CSM_4,1640
+C0109,Company_109,enterprise,LATAM,SaaS,2023-04-20,monthly,CSM_5,1720
+C0110,Company_110,SMB,EMEA,Energy,2023-04-21,monthly,,1800
+C0111,Company_111,SMB,EMEA,Manufacturing,2023-04-22,annual,,1880
+C0112,Company_112,SMB,EMEA,Finance,2023-04-23,monthly,,1960
+C0113,Company_113,SMB,EMEA,Healthcare,2023-04-24,monthly,,2040
+C0114,Company_114,SMB,North America,Retail,2023-04-25,annual,,2120
+C0115,Company_115,Mid-Market,North America,Logistics,2023-04-26,monthly,CSM_3,2200
+C0116,Company_116,Mid-Market,North America,EdTech,2023-04-27,monthly,CSM_4,2280
+C0117,Company_117,Mid-Market,APAC,SaaS,2023-04-28,annual,CSM_5,2360
+C0118,Company_118,enterprise,APAC,Energy,2023-04-29,monthly,CSM_6,2440
+C0119,Company_119,enterprise,LATAM,Manufacturing,2023-04-30,monthly,CSM_7,2520
+C0120,Company_120,SMB,EMEA,Finance,2023-05-01,annual,,200
+C0121,Company_121,SMB,EMEA,Healthcare,2023-05-02,monthly,,280
+C0122,Company_122,SMB,EMEA,Retail,2023-05-03,monthly,,360
+C0123,Company_123,SMB,EMEA,Logistics,2023-05-04,annual,,440
+C0124,Company_124,SMB,North America,EdTech,2023-05-05,monthly,,520
+C0125,Company_125,Mid-Market,North America,SaaS,2023-05-06,monthly,CSM_5,600
+C0126,Company_126,Mid-Market,North America,Energy,2023-05-07,annual,CSM_6,680
+C0127,Company_127,Mid-Market,APAC,Manufacturing,2023-05-08,monthly,CSM_7,760
+C0128,Company_128,enterprise,APAC,Finance,2023-05-09,monthly,CSM_0,840
+C0129,Company_129,enterprise,LATAM,Healthcare,2023-05-10,annual,CSM_1,920
+C0130,Company_130,SMB,EMEA,Retail,2023-05-11,monthly,,1000
+C0131,Company_131,SMB,EMEA,Logistics,2023-05-12,monthly,,1080
+C0132,Company_132,SMB,EMEA,EdTech,2023-05-13,annual,,1160
+C0133,Company_133,SMB,EMEA,SaaS,2023-05-14,monthly,,1240
+C0134,Company_134,SMB,North America,Energy,2023-05-15,monthly,,1320
+C0135,Company_135,Mid-Market,North America,Manufacturing,2023-05-16,annual,CSM_7,1400
+C0136,Company_136,Mid-Market,North America,Finance,2023-05-17,monthly,CSM_0,1480
+C0137,Company_137,Mid-Market,APAC,Healthcare,2023-05-18,monthly,CSM_1,1560
+C0138,Company_138,enterprise,APAC,Retail,2023-05-19,annual,CSM_2,1640
+C0139,Company_139,enterprise,LATAM,Logistics,2023-05-20,monthly,CSM_3,1720
+C0140,Company_140,SMB,EMEA,EdTech,2023-05-21,monthly,,1800
+C0141,Company_141,SMB,EMEA,SaaS,2023-05-22,annual,,1880
+C0142,Company_142,SMB,EMEA,Energy,2023-05-23,monthly,,1960
+C0143,Company_143,SMB,EMEA,Manufacturing,2023-05-24,monthly,,2040
+C0144,Company_144,SMB,North America,Finance,2023-05-25,annual,,2120
+C0145,Company_145,Mid-Market,North America,Healthcare,2023-05-26,monthly,CSM_1,2200
+C0146,Company_146,Mid-Market,North America,Retail,2023-05-27,monthly,CSM_2,2280
+C0147,Company_147,Mid-Market,APAC,Logistics,2023-05-28,annual,CSM_3,2360
+C0148,Company_148,enterprise,APAC,EdTech,2023-05-29,monthly,CSM_4,2440
+C0149,Company_149,enterprise,LATAM,SaaS,2023-05-30,monthly,CSM_5,2520
+C0150,Company_150,SMB,EMEA,Energy,2023-05-31,annual,,200
+C0151,Company_151,SMB,EMEA,Manufacturing,2023-06-01,monthly,,280
+C0152,Company_152,SMB,EMEA,Finance,2023-06-02,monthly,,360
+C0153,Company_153,SMB,EMEA,Healthcare,2023-06-03,annual,,440
+C0154,Company_154,SMB,North America,Retail,2023-06-04,monthly,,520
+C0155,Company_155,Mid-Market,North America,Logistics,2023-06-05,monthly,CSM_3,600
+C0156,Company_156,Mid-Market,North America,EdTech,2023-06-06,annual,CSM_4,680
+C0157,Company_157,Mid-Market,APAC,SaaS,2023-06-07,monthly,CSM_5,760
+C0158,Company_158,enterprise,APAC,Energy,2023-06-08,monthly,CSM_6,840
+C0159,Company_159,enterprise,LATAM,Manufacturing,2023-06-09,annual,CSM_7,920
+C0160,Company_160,SMB,EMEA,Finance,2023-06-10,monthly,,1000
+C0161,Company_161,SMB,EMEA,Healthcare,2023-06-11,monthly,,1080
+C0162,Company_162,SMB,EMEA,Retail,2023-06-12,annual,,1160
+C0163,Company_163,SMB,EMEA,Logistics,2023-06-13,monthly,,1240
+C0164,Company_164,SMB,North America,EdTech,2023-06-14,monthly,,1320
+C0165,Company_165,Mid-Market,North America,SaaS,2023-06-15,annual,CSM_5,1400
+C0166,Company_166,Mid-Market,North America,Energy,2023-06-16,monthly,CSM_6,1480
+C0167,Company_167,Mid-Market,APAC,Manufacturing,2023-06-17,monthly,CSM_7,1560
+C0168,Company_168,enterprise,APAC,Finance,2023-06-18,annual,CSM_0,1640
+C0169,Company_169,enterprise,LATAM,Healthcare,2023-06-19,monthly,CSM_1,1720
+C0170,Company_170,SMB,EMEA,Retail,2023-06-20,monthly,,1800
+C0171,Company_171,SMB,EMEA,Logistics,2023-06-21,annual,,1880
+C0172,Company_172,SMB,EMEA,EdTech,2023-06-22,monthly,,1960
+C0173,Company_173,SMB,EMEA,SaaS,2023-06-23,monthly,,2040
+C0174,Company_174,SMB,North America,Energy,2023-06-24,annual,,2120
+C0175,Company_175,Mid-Market,North America,Manufacturing,2023-06-25,monthly,CSM_7,2200
+C0176,Company_176,Mid-Market,North America,Finance,2023-06-26,monthly,CSM_0,2280
+C0177,Company_177,Mid-Market,APAC,Healthcare,2023-06-27,annual,CSM_1,2360
+C0178,Company_178,enterprise,APAC,Retail,2023-06-28,monthly,CSM_2,2440
+C0179,Company_179,enterprise,LATAM,Logistics,2023-06-29,monthly,CSM_3,2520
+C0180,Company_180,SMB,EMEA,EdTech,2023-06-30,annual,,200
+C0181,Company_181,SMB,EMEA,SaaS,2023-07-01,monthly,,280
+C0182,Company_182,SMB,EMEA,Energy,2023-07-02,monthly,,360
+C0183,Company_183,SMB,EMEA,Manufacturing,2023-07-03,annual,,440
+C0184,Company_184,SMB,North America,Finance,2023-07-04,monthly,,520
+C0185,Company_185,Mid-Market,North America,Healthcare,2023-07-05,monthly,CSM_1,600
+C0186,Company_186,Mid-Market,North America,Retail,2023-07-06,annual,CSM_2,680
+C0187,Company_187,Mid-Market,APAC,Logistics,2023-07-07,monthly,CSM_3,760
+C0188,Company_188,enterprise,APAC,EdTech,2023-07-08,monthly,CSM_4,840
+C0189,Company_189,enterprise,LATAM,SaaS,2023-07-09,annual,CSM_5,920
+C0190,Company_190,SMB,EMEA,Energy,2023-07-10,monthly,,1000
+C0191,Company_191,SMB,EMEA,Manufacturing,2023-07-11,monthly,,1080
+C0192,Company_192,SMB,EMEA,Finance,2023-07-12,annual,,1160
+C0193,Company_193,SMB,EMEA,Healthcare,2023-07-13,monthly,,1240
+C0194,Company_194,SMB,North America,Retail,2023-07-14,monthly,,1320
+C0195,Company_195,Mid-Market,North America,Logistics,2023-07-15,annual,CSM_3,1400
+C0196,Company_196,Mid-Market,North America,EdTech,2023-07-16,monthly,CSM_4,1480
+C0197,Company_197,Mid-Market,APAC,SaaS,2023-07-17,monthly,CSM_5,1560
+C0198,Company_198,enterprise,APAC,Energy,2023-07-18,annual,CSM_6,1640
+C0199,Company_199,enterprise,LATAM,Manufacturing,2023-07-19,monthly,CSM_7,1720
